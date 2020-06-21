@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import initialize from "../firebaseconfig";
 import * as firebase from "firebase/app";
 import "firebase/auth";
 
@@ -20,7 +19,7 @@ class Navbar extends Component {
   render() {
     return (
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark justify-content-between">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/">
           COVID Traffic Control
             </a>
         {this.props.username != null ? (
