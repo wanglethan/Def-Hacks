@@ -2,29 +2,35 @@ import React, { Component } from "react";
 import initialize from "../firebaseconfig";
 import * as firebase from "firebase/app";
 import "firebase/auth";
+import Navbar from './navbar'
 
 class HomePage extends Component {
-  state = {};
+  state = {
+      username: null,
+      userpfp: null
+  };
 
   login = () => {
     //LOGIN FUNCTION HERE
-    initialize();
     var provider = new firebase.auth.GoogleAuthProvider();
+    let state = this;
     provider.addScope('https://www.googleapis.com/auth/contacts.readonly');
-
-    firebase.auth().signInWithPopup(provider).then(function (result) { console.log(result) });
+    
+    firebase.auth().signInWithPopup(provider).then((result) => {
+        state.setState({username: result.user.displayName});
+        state.setState({userpfp: result.user.photoURL});
+    });
 
 
   }
 
   render() {
+    if(!firebase.apps.length) {
+        initialize();
+    }
     return (
       <React.Fragment>
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-          <a className="navbar-brand" href="#">
-            COVID Traffic Control
-          </a>
-        </nav>
+        <Navbar username={this.state.username} userpfp={this.state.userpfp} />
         <div className="align-self-center">
           <h1 className="display-2 m-3" style={{ textAlign: "center" }}>
             COVID Traffic Control
