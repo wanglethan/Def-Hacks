@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          poggers
+          Hello world
         </p>
         <a
           className="App-link"
-          href="https://www.youtube.com/watch?v=1UA3iZbSIWw"
+          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          JJ the airplane theme song
+          Learn React
         </a>
       </header>
     </div>
