@@ -2,31 +2,34 @@ import React, { Component } from "react";
  
 class Sidebar extends Component {
     state = {
+        /*
+        clinic = {
+        clinicName: name,
+        clinicLocation: location,
+        clinicOfficeHours: officeHours,
+        clinicNumOfPeople: numOfPeople
+    }
+        */
         listitems:[
             {
-                id: 0,
-                name: "clinic a",
-                people: 3
+                clinicName: "clinic a",
+                clinicNumOfPeople: 3
             },
             {
-                id: 1,
-                name: "clinic b", 
-                people: 3
+                clinicName: "clinic b", 
+                clinicNumOfPeople: 3
             },
             {
-                id: 2,
-                name: "clinic c",
-                people: 3
+                clinicName: "clinic c",
+                clinicNumOfPeople: 3
             },
             {
-                id: 3,
-                name: "clinic d",
-                people: 4
+                clinicName: "clinic d",
+                clinicNumOfPeople: 4
             },
             {
-                id: 4,
-                name: "clinic e",
-                people: 5
+                clinicName: "clinic e",
+                clinicNumOfPeople: 5
             }
         ]
   };
@@ -43,7 +46,7 @@ class Sidebar extends Component {
                 <h1 style={{ textAlignVertical: "center", textAlign: "center"}}>People in Clinic</h1>
                 {this.state.listitems.map(listitem => (
                     <li key={listitem.id} className= "list-group-item">
-                        {listitem.name + " : " + listitem.people}
+                        {listitem.clinicName + " : " + listitem.clinicNumOfPeople}
                     </li>
                 ))}
             </ul>
