@@ -22,3 +22,12 @@ export function createClinic(name, location, officeHours, numOfPeople) {
     }
     clinics.push(clinic);
 }
+
+export function createEmployee(uid, clinicName) {
+    const employeeInfo = firebase.database().ref('employeeInfo');
+    const employee = {
+        employeeUid: uid,
+        nameOfClinic: clinicName
+    }
+    employeeInfo.push(employee);
+}
