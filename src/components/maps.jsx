@@ -65,8 +65,8 @@ export class MapContainer extends Component {
 
                 title={"clinic"}
                 position={{lat: 43.5, lng: -79.4}}
-                name={'Costco'} 
-                label={"Costco wholesale company"}
+                name={"Ethan's Walk-in Clinic"} 
+                label={"Ethan's Walk-in Clinic"}
                 />
 
                 <Marker
@@ -75,9 +75,8 @@ export class MapContainer extends Component {
                 
                 title={"clinic"}
                 position={{lat: 43.1, lng: -79.2}}
-                name={'Walmart'}
-                label={"Walmart, this marker is draggable"}
-                draggable={true}
+                name={"Angel's Walk-in Clinic"}
+                label={"Angels's Walk-in Clinic"}
                 />
             
                 <InfoWindow
