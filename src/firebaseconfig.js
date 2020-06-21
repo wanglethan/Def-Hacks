@@ -4,14 +4,14 @@ import "firebase/auth";
 import "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDV7e4g7YUJVdVXzfLl_639qVMhIk8z2EY",
-    authDomain: "testproject-7ae26.firebaseapp.com",
-    databaseURL: "https://testproject-7ae26.firebaseio.com",
-    projectId: "testproject-7ae26",
-    storageBucket: "testproject-7ae26.appspot.com",
-    messagingSenderId: "159577437203",
-    appId: "1:159577437203:web:b0ffc8003b5ce902b5fbe6",
-    measurementId: "G-E6ZMYFSWCS"
+    apiKey: "AIzaSyBcHqxDHOMBk59sN6SOIKUf3XWUK5teNeM",
+    authDomain: "defhacks-database.firebaseapp.com",
+    databaseURL: "https://defhacks-database.firebaseio.com",
+    projectId: "defhacks-database",
+    storageBucket: "defhacks-database.appspot.com",
+    messagingSenderId: "21353571598",
+    appId: "1:21353571598:web:ff0f14409f58b9c6afe35f",
+    measurementId: "G-30LP2F5CLN"
 };
 
 function initialize() {
