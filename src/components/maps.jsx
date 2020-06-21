@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Map, GoogleApiWrapper, InfoWindow, Marker } from 'google-maps-react';
-import CurrentLocation from './currentLocation'
+import CurrentLocation from '../services/currentLocation'
+import Sidebar from './Sidebar'
 
 const google = window.google
 const mapStyles = {
@@ -55,8 +56,8 @@ export class MapContainer extends Component {
 
                 // Events
                 onClick={this.mapClicked}
-                onDragend={this.centerMoved}
-                >
+                onDragend={this.centerMoved}>
+                <Sidebar />
                 
                 <Marker 
                 onClick={this.onMarkerClick}
