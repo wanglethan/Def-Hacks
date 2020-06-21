@@ -16,7 +16,7 @@ class Navbar extends Component {
                 Hello, {this.props.username}
                 {this.props.userpfp != null ? (
                   <img
-                    className="mx-2"
+                    className="mx-2 rounded-circle"
                     src={this.props.userpfp}
                     style={{ width: 25 }}
                   />
