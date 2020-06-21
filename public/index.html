@@ -16,5 +16,29 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.15.3/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/7.15.3/firebase-analytics.js"></script>
+
+    <script>
+      // Your web app's Firebase configuration
+      var firebaseConfig = {
+        apiKey: "AIzaSyBcHqxDHOMBk59sN6SOIKUf3XWUK5teNeM",
+        authDomain: "defhacks-database.firebaseapp.com",
+        databaseURL: "https://defhacks-database.firebaseio.com",
+        projectId: "defhacks-database",
+        storageBucket: "defhacks-database.appspot.com",
+        messagingSenderId: "21353571598",
+        appId: "1:21353571598:web:ff0f14409f58b9c6afe35f",
+        measurementId: "G-30LP2F5CLN"
+      };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+    </script>
+
   </body>
 </html>
