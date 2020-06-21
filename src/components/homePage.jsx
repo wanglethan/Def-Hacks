@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import initialize from "../firebaseconfig";
+import initialize from "../services/firebaseconfig";
 import * as firebase from "firebase/app";
 import "firebase/auth";
 import Navbar from './navbar'
@@ -67,7 +67,7 @@ class HomePage extends Component {
                 rel="noopener noreferrer"
                 href="https://www.ontario.ca/page/how-ontario-is-responding-covid-19"
               >
-                Click here to get the latest COVID-19 updates for Ontario
+                Get the latest COVID-19 updates for Ontario
               </a>
             </span>
           </div>
