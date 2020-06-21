@@ -3,6 +3,7 @@ import initialize from "../firebaseconfig";
 import * as firebase from "firebase/app";
 import "firebase/auth";
 import Navbar from './navbar'
+import {Link} from 'react-router-dom';
 
 class HomePage extends Component {
   state = {
@@ -52,7 +53,7 @@ class HomePage extends Component {
                 style={{ textAlign: "center" }}
               >
                 <h2 className="lead p-3 text-white">User Login</h2>
-                <button className="btn btn-lg btn-light m-3">Launch Map</button>
+                <Link to="/maps"><button className="btn btn-lg btn-light m-3">Launch Map</button></Link>
               </div>
             </div>
           </div>
