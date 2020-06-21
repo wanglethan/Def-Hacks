@@ -1,9 +1,20 @@
 import React, { Component } from "react";
+import initialize from "../firebaseconfig";
+import * as firebase from "firebase/app";
+import "firebase/auth";
+
 class HomePage extends Component {
   state = {};
 
   login = () => {
-      //LOGIN FUNCTION HERE
+    //LOGIN FUNCTION HERE
+    initialize();
+    var provider = new firebase.auth.GoogleAuthProvider();
+    provider.addScope('https://www.googleapis.com/auth/contacts.readonly');
+
+    firebase.auth().signInWithPopup(provider).then(function (result) { console.log(result) });
+
+
   }
 
   render() {
