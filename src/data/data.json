@@ -1,0 +1,3530 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "CpQCCwEAAExxWzSFx4geIEuiJhZDK-zekDTURDwfNpjsXU0yQSZ1e7QMlhNr79lHfgMYCWEo2Zj4z0t7RdPKsDNM6_XCeQs8Emq2wU7DwkcLSYvWXJ4pYly0HVxMJUGLv_4kmrMMdsgSnriqgi_PCOJM1343h_8e_L1ivGmS5bry8rMk9eTGsSfRWXb_i1het5j5GXfGR0VLY2_ZIC_T3RjZ4bkytRiViFcMwXYU5yjJSySY2t2JFDVZppgzBjvqJarkS02j_k9K7jGasK_XAayFLU-lP7doG8Cc9F1Gd7Rw_pq0j0-qlkSiqmRGSUHus3ePZttI9EHVHlIXm4xmAEGzKcw1u-qQS8siOwUSCfdQMtHfQEh7EhDW9Ku8WgTfp8cN7ftIVXd7GhQTAV77FljlBr79zly-OBzne3s0yQ",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "170 Queensway W Suite 112, Mississauga, ON L5B 3A8, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5699342,
+                "lng" : -79.61116819999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57139212989272,
+                   "lng" : -79.61001232010727
+                },
+                "southwest" : {
+                   "lat" : 43.56869247010728,
+                   "lng" : -79.61271197989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "d5a4552bb5d5fad1faae907d1ce6a71bc850fdd8",
+          "name" : "MedPlace Walk-In Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1944,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110066192471171600101\"\u003eAnnie Asounga\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAVnDoqu37rjIpelPxRGRkzovUKEtz48tG_yr5mJI9fRnm5hqhQWInfugu6bbNeMfIJOxjBOkfmPKsvsWCd0JjTXixdYLL4Z3xPOIHbMxCeKk051rsfbl1NeL9pxlA7x9UEhDZovmTOJJP-F3GrVMRMEGwGhTb3P6RQnva9bxfKy7zcc32iMrNOg",
+                "width" : 2592
+             }
+          ],
+          "place_id" : "ChIJWd4q_fNGK4gRJ0DM1eIJh1Q",
+          "plus_code" : {
+             "compound_code" : "H99Q+XG Mississauga, Ontario",
+             "global_code" : "87M2H99Q+XG"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJWd4q_fNGK4gRJ0DM1eIJh1Q",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 50
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "1375 Southdown Rd, Mississauga, ON L5J 2Z1, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5194019,
+                "lng" : -79.6393185
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.52069542989272,
+                   "lng" : -79.63808297010728
+                },
+                "southwest" : {
+                   "lat" : 43.51799577010728,
+                   "lng" : -79.64078262989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "d18049a6b01528e93737ded303e92a3a527af78d",
+          "name" : "Southdown Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3264,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107186267997057443204\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAZmnEyXO5GKh7tQIr4-6bQNoqMAnPGAAH_w1kBJy0_6LFyEhAHQeD4CKwxpnuuw3Rkzm7LywkYonuT4EKlwFuemyhhAXbmXc3whtIMyhQwZoP-0PqBVxSs3wSs35-9IcPEhCAiOlZCd7r1g1pWKyjwyhdGhTYxfH89fkta11u9LZav5D3Be_fuQ",
+                "width" : 2448
+             }
+          ],
+          "place_id" : "ChIJx-X-3npEK4gRvj4bpe4R0MM",
+          "plus_code" : {
+             "compound_code" : "G996+Q7 Mississauga, Ontario",
+             "global_code" : "87M2G996+Q7"
+          },
+          "rating" : 3.8,
+          "reference" : "ChIJx-X-3npEK4gRvj4bpe4R0MM",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 51
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "21 Queensway W, Mississauga, ON L5B 1B6, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5739628,
+                "lng" : -79.60833099999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57523567989272,
+                   "lng" : -79.60685797010727
+                },
+                "southwest" : {
+                   "lat" : 43.57253602010728,
+                   "lng" : -79.60955762989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "4fcfea1b26b7f9326bcbf265d81461708f11c2ee",
+          "name" : "Multi-Specialty Medical Clinic",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110410226192763445230\"\u003eAbba Ji\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAm6ouVnOuFL6198lkMbNP0KEQIjNgBM54icRoAJpMSK4LITqPy2kzqOzdJra3RJU4f_G_ApXXgc4H2q6TMC-ifMKwCUsgWkB999ELnwAZeZrg_FAenhHZQgZgce6miBnREhD5Nv6ndf_NolRwfHJqo4JSGhTE5DBk7BhIy_2fz7tU4RBgwpobyQ",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJQTgaoPdGK4gRjvU7BKttMWc",
+          "plus_code" : {
+             "compound_code" : "H9FR+HM Mississauga, Ontario",
+             "global_code" : "87M2H9FR+HM"
+          },
+          "rating" : 2.3,
+          "reference" : "ChIJQTgaoPdGK4gRjvU7BKttMWc",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 547
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "4175 Confederation Pkwy #2, Mississauga, ON L5B 0H1, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5889825,
+                "lng" : -79.649822
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.59027982989272,
+                   "lng" : -79.64854202010729
+                },
+                "southwest" : {
+                   "lat" : 43.58758017010727,
+                   "lng" : -79.65124167989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "e14712c6d42c52a6f990ecac831ba51d27a8b76e",
+          "name" : "Square One Medical - Family Medicine, Walk-In & Pharmacy",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1080,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104406534644097781541\"\u003eBen LeBlanc\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA1BW-2hgmGsXSP8SSqXimP9ju1-kic1MSQbb0GMaAKxgGi5xjNfwAwX1uuRcPCKwFLOlSn6cPbXN9-3YF9X_ymLiVHrlC_nPQ2tttYceUqcg_mkBPw293HhhnO8biD6amEhB2akwaYoFWsVEfGMFf1xBpGhTbvs4w1TpSdUlmlwNv9BrrHuv1AQ",
+                "width" : 1920
+             }
+          ],
+          "place_id" : "ChIJX1mWpSpHK4gR24RvVu8zgHE",
+          "plus_code" : {
+             "compound_code" : "H9Q2+H3 Mississauga, Ontario",
+             "global_code" : "87M2H9Q2+H3"
+          },
+          "rating" : 3.1,
+          "reference" : "ChIJX1mWpSpHK4gR24RvVu8zgHE",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 101
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "3980 Grand Park Dr, Mississauga, ON L5B 4M6, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5810973,
+                "lng" : -79.64911099999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.58249287989272,
+                   "lng" : -79.64769222010727
+                },
+                "southwest" : {
+                   "lat" : 43.57979322010727,
+                   "lng" : -79.65039187989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "ead2ec89095c0571536199e3656896397c64d490",
+          "name" : "Mississauga Medical Centre",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 1440,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105788837611018474059\"\u003eELZ KONANGO\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAYk9SNR2cbdhe4nkq488hHiz4usR6zgrMDQkSwBqqiNiMtq9Hcrdn5bs6osbwtIQp3IAP8yHVx8ljNF0zny4h4pPNewDBoo58ZStKiILnJZp8zzauQ2LEqc2xL98IC4FbEhCrxeTRe-vhKk1x9VP48gqSGhRLkqdbd6hFToU7WfBSlqf06XnDNg",
+                "width" : 1080
+             }
+          ],
+          "place_id" : "ChIJCRiqHdNGK4gRunQ71lZnqmk",
+          "plus_code" : {
+             "compound_code" : "H9J2+C9 Mississauga, Ontario",
+             "global_code" : "87M2H9J2+C9"
+          },
+          "rating" : 2.1,
+          "reference" : "ChIJCRiqHdNGK4gRunQ71lZnqmk",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 73
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "2110 Burnhamthorpe Rd W #3, Mississauga, ON L5L 5Z5, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5421053,
+                "lng" : -79.6818892
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.54356332989271,
+                   "lng" : -79.68061622010727
+                },
+                "southwest" : {
+                   "lat" : 43.54086367010727,
+                   "lng" : -79.68331587989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "91eb0eabd6af91e799b22edf96eb59c18ab11127",
+          "name" : "South Common Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118203598590699093833\"\u003eLarry Novak\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAwe6xTHLN3GKXe8-EwVapPnjRzAsjqw4aByH_9oSpW1h-bi280Io9p6icT5rwWnmVGfNVUwOEFcvKXFHAweYU4fGlVwfkUk5lG-DRhTy4npktvmXynpRnn2VhEPb__bfnEhBQHw2WOwLqmCEiFh59JWx5GhQHyYcMeatghtOFTdbsAn34mS4eXQ",
+                "width" : 3840
+             }
+          ],
+          "place_id" : "ChIJtUNrfdpDK4gRNmGtj4MII6s",
+          "plus_code" : {
+             "compound_code" : "G8R9+R6 Mississauga, Ontario",
+             "global_code" : "87M2G8R9+R6"
+          },
+          "rating" : 2.3,
+          "reference" : "ChIJtUNrfdpDK4gRNmGtj4MII6s",
+          "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 125
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "1224 Dundas St W, Mississauga, ON L5C 4G7, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5537582,
+                "lng" : -79.6457389
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.55532712989271,
+                   "lng" : -79.64475372010727
+                },
+                "southwest" : {
+                   "lat" : 43.55262747010727,
+                   "lng" : -79.64745337989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "37c1e4b30faad1a72e052e1d88ae34e216c72605",
+          "name" : "Dundas Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103784121831057870266\"\u003eRab Krist\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAseLWqGMf7094At5JVUeddY9cKrSubsT2sWvjNb6JUzSrD1wGxtN-WJNHz7d-Sn73HPngoSoTjLzwgwiVqJVaqGo96e0Gx2bmkpc3gTE82HNxIwBtuwGWAG43jgLuOj0WEhDkzSmQR2tLVOSp6dy_RM_HGhTGN_7boMjOH4MgAzLupWNwDRNocQ",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJBW5j5atGK4gRk99vQHqMqIQ",
+          "plus_code" : {
+             "compound_code" : "H933+GP Mississauga, Ontario",
+             "global_code" : "87M2H933+GP"
+          },
+          "rating" : 3.3,
+          "reference" : "ChIJBW5j5atGK4gRk99vQHqMqIQ",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 16
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "4-780 Burnhamthorpe Rd W, Mississauga, ON L5C 3X3, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5772024,
+                "lng" : -79.65336769999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57847992989272,
+                   "lng" : -79.65210427010726
+                },
+                "southwest" : {
+                   "lat" : 43.57578027010727,
+                   "lng" : -79.65480392989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "037ac85e45ef15521378e17064651000f0c6102b",
+          "name" : "Family Medical and Walk-In Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJBTW1VjJBK4gRDhZ8jMMkPs8",
+          "plus_code" : {
+             "compound_code" : "H8GW+VM Mississauga, Ontario",
+             "global_code" : "87M2H8GW+VM"
+          },
+          "rating" : 4.1,
+          "reference" : "ChIJBTW1VjJBK4gRDhZ8jMMkPs8",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 30
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "169 Dundas St E, Mississauga, ON L5A 1W8, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.584618,
+                "lng" : -79.6127853
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.58588902989273,
+                   "lng" : -79.61137012010727
+                },
+                "southwest" : {
+                   "lat" : 43.58318937010728,
+                   "lng" : -79.61406977989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "3613a60fb91a9e7db2922a4bdf15d5bb7abd5b3e",
+          "name" : "WeCare Walk-in Clinic and Pharmacy",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114033658212380923371\"\u003efet feta\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAMpB5w20Mki6A_dF_yPIYj7wWn27X8gu7BxlyMLiVBSViQRp9gcELjZVBlv_uJsSKfNG5TteB4P8RFhfIC2Bl4gNdwlCVgyASLQbwYpypqNu3i4mtgA7yEwFOvU--QpaHEhCLxe-_zBRkgMrYf-6JUc4CGhR-gajTiUXzFArzt9C5LjlXOYafeg",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJKdp-jv1GK4gReOpGDWLMsG4",
+          "plus_code" : {
+             "compound_code" : "H9MP+RV Mississauga, Ontario",
+             "global_code" : "87M2H9MP+RV"
+          },
+          "rating" : 4.7,
+          "reference" : "ChIJKdp-jv1GK4gReOpGDWLMsG4",
+          "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+          "user_ratings_total" : 99
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "5025 Creditview Rd, Mississauga, ON L5V 3E5, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.578437,
+                "lng" : -79.6853529
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57970022989272,
+                   "lng" : -79.68412687010728
+                },
+                "southwest" : {
+                   "lat" : 43.57700057010728,
+                   "lng" : -79.68682652989273
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "ddbea1c5fab28ba755c6bc529b920615551faf4d",
+          "name" : "The Queen Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 5472,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103782386894984234594\"\u003eEwa Zawitkowska\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA444UW0qyysd6T0aiDerAheFoCRt4WQe4RtlcxNprbRMjiVJR7-jp6neRd4-wbp4SBUyw9wnWRGHwUSELA-U8oE6i4KOICzk7tOxe4kEqAVoWbhjGQ6da9qF4q7SAdKVtEhBnkFUjgHLJKW4eKsdkQgH3GhSNZc5eqpN1NCudnnDEZTT-Rw04FQ",
+                "width" : 3648
+             }
+          ],
+          "place_id" : "ChIJVVXFag5BK4gRtHeM3C_kybI",
+          "plus_code" : {
+             "compound_code" : "H8H7+9V Mississauga, Ontario",
+             "global_code" : "87M2H8H7+9V"
+          },
+          "rating" : 4,
+          "reference" : "ChIJVVXFag5BK4gRtHeM3C_kybI",
+          "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 127
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "620 Bloor St, Mississauga, ON L5A 3V9, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5989503,
+                "lng" : -79.61187409999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.60021292989272,
+                   "lng" : -79.61046142010728
+                },
+                "southwest" : {
+                   "lat" : 43.59751327010728,
+                   "lng" : -79.61316107989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "70868ee737475fe877ab0ff567d623546b06d59c",
+          "name" : "Medical One Centre and Pharmacy For Family Practice and Walk-in Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 480,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101128201173411089569\"\u003eBloor Valley Walk-In Clinic &amp; Pharmacy\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAlXgHJzrDofbGxDnulf9N6xb-uHR8b63_XrmQKLMUH3VMRspN0KFix_Faj6s4y5fqmJglttAzRSiaWNwDHKTIf1q18YnTPiFze4hbSkEBwWVF9P6lXBjtcJk2qxc377ZmEhDypPocGNNh1yBYPKTTq129GhQ1E7GsSGHnq0__aCpv2KBLeLKEKg",
+                "width" : 640
+             }
+          ],
+          "place_id" : "ChIJyTHFpw5HK4gRj8YSfV3Uj90",
+          "plus_code" : {
+             "compound_code" : "H9XQ+H7 Mississauga, Ontario",
+             "global_code" : "87M2H9XQ+H7"
+          },
+          "rating" : 3.6,
+          "reference" : "ChIJyTHFpw5HK4gRj8YSfV3Uj90",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 58
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "1500 Dundas St E, Mississauga, ON L4X 1L4, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.60897,
+                "lng" : -79.57741899999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.61051432989272,
+                   "lng" : -79.57634907010728
+                },
+                "southwest" : {
+                   "lat" : 43.60781467010727,
+                   "lng" : -79.57904872989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "dde3801647a7e1149cb69f6cac84b906b36bbf7c",
+          "name" : "Walk-In Clinic at Walmart Mississauga by Jack Nathan Health",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104070762919402515412\"\u003eWalk-In Clinic at Walmart Mississauga by Jack Nathan Health\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAHD74MDibbc3yr__ny5muaV5dI_1euV9JYF4gz-rLivDYfLWTK6V0TTk47yVACloH9iZD8BjjcxCVZHROdi3UH7J01M_p1VScOK3mO7ZwuIeBSZMdNtjpsUoWfDV77nzhEhBVgxupft1TZI-j7NsSH2g5GhQQUSPBcFAVoiRDCeVTnfB_IeWMrw",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJCwm-X_JHK4gROKSp1wmdVJ0",
+          "plus_code" : {
+             "compound_code" : "JC5F+H2 Mississauga, Ontario",
+             "global_code" : "87M2JC5F+H2"
+          },
+          "rating" : 2.7,
+          "reference" : "ChIJCwm-X_JHK4gROKSp1wmdVJ0",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 92
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "966 Dundas St E #8a, Mississauga, ON L4Y 4H5, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.6001155,
+                "lng" : -79.5929977
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.60150282989272,
+                   "lng" : -79.59159877010728
+                },
+                "southwest" : {
+                   "lat" : 43.59880317010727,
+                   "lng" : -79.59429842989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "1690f745e217cf0d0a1fe97cb77690d5d00a9137",
+          "name" : "Applewood Medical Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1200,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112636563294459956806\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA47K2jWIKOBQHtD4ftezu_N3Nxmtzqc63BA87jYK5klBCn4yiMBWzlvGDDV6IZjBpPyK5cxz6GyTM4H_RhWtwyT4gCMiZtpQkO61-bMl-UZ8UpRRKlLCSRFdlKWBjGhZiEhDDkZv1khlewptVoPA0zEY7GhSbmwWJocGlY61GsBis9-d6Kc0PqQ",
+                "width" : 1600
+             }
+          ],
+          "place_id" : "ChIJFTJOvtRHK4gRnCrZAIvHqRQ",
+          "plus_code" : {
+             "compound_code" : "JC24+2R Mississauga, Ontario",
+             "global_code" : "87M2JC24+2R"
+          },
+          "rating" : 3.7,
+          "reference" : "ChIJFTJOvtRHK4gRnCrZAIvHqRQ",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 30
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "5010 Glen Erin Dr, Mississauga, ON L5M 6J3, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5548975,
+                "lng" : -79.714856
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.55614337989272,
+                   "lng" : -79.71317632010728
+                },
+                "southwest" : {
+                   "lat" : 43.55344372010727,
+                   "lng" : -79.71587597989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "de52d6919f3c5474e93c28ae61672e164a5f605c",
+          "name" : "Walk-In Clinic at Loblaws - Mississauga HealthCare Plus",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102320164096797161026\"\u003eWalk-In Clinic at Loblaws - HealthCare Plus Medical Centre\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAALXCoanxC_tqsVQMG18H1pqgEUQRS_QVebB51wPHLzcFRi2NBl-vV-Bw_RjAuLDsQGhqO4CT1LY8PGYG4d9e4ZDJat5qfV32O51qa3SlGDXKARfBhzpUmwFm0Iy92tpupEhAysBYDdcCzwobJ8j4PwKpEGhQwHAt78HN7i0VaxsGZ9zorVwC_Og",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJU2GU8iBCK4gRKD5lQBfYIk0",
+          "plus_code" : {
+             "compound_code" : "H73P+X3 Mississauga, Ontario",
+             "global_code" : "87M2H73P+X3"
+          },
+          "rating" : 3,
+          "reference" : "ChIJU2GU8iBCK4gRKD5lQBfYIk0",
+          "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 33
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "1201 Britannia Rd W, Mississauga, ON L5V 1N2, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.6038257,
+                "lng" : -79.7065527
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.60512892989271,
+                   "lng" : -79.70512597010729
+                },
+                "southwest" : {
+                   "lat" : 43.60242927010727,
+                   "lng" : -79.70782562989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "a675ab40474648c25e8a8b38b60f41224da7d005",
+          "name" : "Mississauga Urgent Care Medical Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 607,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102319542355177088641\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAJs8k1EXwhkiFLlcwqR-JyJ4eChFzJZaKP6krOdTM7UCuD9tRss5qp7y5h1TAr_Xwn9bK8U8HKy_jouNIm_4HVRT3ZXamKMVZYSkvOhb9Wg_BaTkdyXEZsub8oJ0ox854EhAlzuW7JN_Ox7CzNiUVwoC_GhRT7UJBpVw2F3WisUKuqFrVzaLcnw",
+                "width" : 1080
+             }
+          ],
+          "place_id" : "ChIJqzjm-09AK4gRIUGzYEhDgDw",
+          "plus_code" : {
+             "compound_code" : "J73V+G9 Mississauga, Ontario",
+             "global_code" : "87M2J73V+G9"
+          },
+          "rating" : 2.8,
+          "reference" : "ChIJqzjm-09AK4gRIUGzYEhDgDw",
+          "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 59
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "3885 Duke of York Blvd #104&105, Mississauga, ON L5B 0E4, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5875612,
+                "lng" : -79.6401197
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.58885827989273,
+                   "lng" : -79.63881627010728
+                },
+                "southwest" : {
+                   "lat" : 43.58615862010728,
+                   "lng" : -79.64151592989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "38eb590b24d93aab39b0e9904aa6108f7b7418de",
+          "name" : "MediCare Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105932668267496720307\"\u003eMain Drug Mart\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAa1aWHRwZ0JlcHHY8aVA5CiEYkYDK2R2FsBxk0dLAgPAZ-UqPuTsuos0voBFDs-sV-xcFfdVZR2RQAOQzsypS5xiIwXVz_2tvKbmUVxw5qif0sRlpH4W3LHfHj52MH7hYEhCxdmKga74arg_sK_ifFx8EGhTYHfNSZ_TOxGTm-dA_5XdvsJg7aA",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJF5_PBChHK4gR56resziPYt4",
+          "plus_code" : {
+             "compound_code" : "H9Q5+2X Mississauga, Ontario",
+             "global_code" : "87M2H9Q5+2X"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJF5_PBChHK4gR56resziPYt4",
+          "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 140
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "925 Rathburn Rd E, Mississauga, ON L4W 4C3, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.616158,
+                "lng" : -79.6178424
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.61743812989272,
+                   "lng" : -79.61638217010727
+                },
+                "southwest" : {
+                   "lat" : 43.61473847010728,
+                   "lng" : -79.61908182989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "686dfa6f8105c318dd5fb1b427c3638e58d57795",
+          "name" : "St. George Walk-In Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103784121831057870266\"\u003eRab Krist\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAWPvBaMOaCmjmPRHsi_LDs061WRLjmBHyVXgvFKhu8zTQxyjSnSYlzqMjyT_GnzbX7kHri_THr5Pfw-hVAMRE4PGLepUyntA5cwQZxaEV3MRNAZhLUvY_ZkGS-G16k-gIEhBF9H-fEK5EOMoEKuyZwsLjGhSsJjtbbGQ8w6FJbeLcKS61hday8A",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJ0bS5MGVHK4gRvTLW_5I1GXo",
+          "plus_code" : {
+             "compound_code" : "J98J+FV Mississauga, Ontario",
+             "global_code" : "87M2J98J+FV"
+          },
+          "rating" : 2.5,
+          "reference" : "ChIJ0bS5MGVHK4gRvTLW_5I1GXo",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 18
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "411 Burnhamthorpe Rd W, Mississauga, ON L5B 0J5, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.585079,
+                "lng" : -79.6456436
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.58638127989272,
+                   "lng" : -79.64421302010729
+                },
+                "southwest" : {
+                   "lat" : 43.58368162010728,
+                   "lng" : -79.64691267989274
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "44500d106168163759419a8b4f18a9f23b024faf",
+          "name" : "Square One Health Group - Walk-in Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118162867262693441062\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAcOCapLMKRGWP_gVo_NADT7Wkj7kuL11gWra8E4Y7wvytGSLZrDg_fO6O1jyqMEJNbHIuH8Qjwg5TMRqXLhLXx-lSgSbLXPsn4zrwss-941nWGIK4UILir_NDuwljdp3rEhA8IF5naRPcd_uTSXQ_WhUFGhQHzJZ_4nuw6eQqyAFnWTm-1jGUzQ",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJO8U5MdRGK4gRngFJkNxc9sA",
+          "plus_code" : {
+             "compound_code" : "H9P3+2P Mississauga, Ontario",
+             "global_code" : "87M2H9P3+2P"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJO8U5MdRGK4gRngFJkNxc9sA",
+          "types" : [
+             "pharmacy",
+             "doctor",
+             "dentist",
+             "health",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 11
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "2575 Dundas St W #5, Mississauga, ON L5K 2M6, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5258151,
+                "lng" : -79.6803858
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.52708997989272,
+                   "lng" : -79.67911552010727
+                },
+                "southwest" : {
+                   "lat" : 43.52439032010728,
+                   "lng" : -79.68181517989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "dfbc84abc9da666ace9af454ba847a8c4ba241e6",
+          "name" : "MCI The Doctor's Office Dundas",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112028849653218903429\"\u003eSpaceCowboy JayJay\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAb3whzXNoQ1nPR37lZS3OCWXOtorcMwau-hRVt5SQlGGsnnGmDLsVyEGSfyfwtPM6pnJLUX93ol84E17FdcC3cYQ-CQlPOzEhx5ISZBryssh-9fv3a6bHgtHhsrD7EalTEhATQ3zv3TEmD7iGupH0zcUDGhS5YseKxN33UTa3Ut5YQkcN6HumkA",
+                "width" : 2795
+             }
+          ],
+          "place_id" : "ChIJvxEUjdZDK4gRMIV8eojJRZk",
+          "plus_code" : {
+             "compound_code" : "G8G9+8R Mississauga, Ontario",
+             "global_code" : "87M2G8G9+8R"
+          },
+          "rating" : 2.2,
+          "reference" : "ChIJvxEUjdZDK4gRMIV8eojJRZk",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 88
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "20 Kingsbridge Garden Cir, Mississauga, ON L5R 3K7, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.602716,
+                "lng" : -79.64895199999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.60411322989273,
+                   "lng" : -79.64762697010728
+                },
+                "southwest" : {
+                   "lat" : 43.60141357010728,
+                   "lng" : -79.65032662989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "893993909d1ae9b044e5e4c8959444cf0c5ec5cd",
+          "name" : "Tucana Court Medical Clinic & Walk-in",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1536,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106161358106543456076\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAHDcoQZTMNPRhXe5L2mSCOnJ_BorTBTTKAeas_8QD-GjkSheKGLAfDqnu0Kcu-BZzlugiSPfJpCjPhq_7fdp1Tl23a7i-0Q9nQ6WlBSJSfUwW745OQ26E0zbNbaEOpRjCEhB4HgoO6utWcaZvi5CQRrHoGhRmAPLxByiyb7wysUfrl6wfIAlZHg",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJ-8b9XzNHK4gRJ31gYnmJTSg",
+          "plus_code" : {
+             "compound_code" : "J932+3C Mississauga, Ontario",
+             "global_code" : "87M2J932+3C"
+          },
+          "rating" : 3.1,
+          "reference" : "ChIJ-8b9XzNHK4gRJ31gYnmJTSg",
+          "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 21
+       },
+        {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "223 Ceremonial Dr Unit 3, Mississauga, ON L5R 2N3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.604906,
+               "lng" : -79.6633676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60619662989272,
+                  "lng" : -79.66169187010728
+               },
+               "southwest" : {
+                  "lat" : 43.60349697010728,
+                  "lng" : -79.66439152989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4d0ea0020bd5236f5900ee071ca03e954deadc88",
+         "name" : "Ceremonial Medical Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1334,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105344578742170188272\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAl3JNMKH59YVWg8dqAqn7c8cX3M5-1RsFQKNQlUP-F-j6Fq5J_g-IclTnJchiUMV5VlHkhbjvB8V8nxwDYDW8o-goTtUtX29FC9LeMUyyYtxvJHRXQRw2VkuYJ7eg_873EhDFKgRz02L5Oku-phdmzkzoGhQ1x-nH-pUxh1BURJkDF8zk8qZcLQ",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJv-JROcZAK4gRK73V4NwqQ68",
+         "plus_code" : {
+            "compound_code" : "J83P+XM Mississauga, Ontario",
+            "global_code" : "87M2J83P+XM"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJv-JROcZAK4gRK73V4NwqQ68",
+         "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1420 Burnhamthorpe Rd E Suite 340, Mississauga, ON L4X 2Z9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.622949,
+               "lng" : -79.6013391
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62434597989272,
+                  "lng" : -79.60007232010727
+               },
+               "southwest" : {
+                  "lat" : 43.62164632010728,
+                  "lng" : -79.60277197989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e4a4e39867b33fd7f4f1e2dd694ad1f3fe47130a",
+         "name" : "No Wait Walk-in Clinic Mississauga",
+         "place_id" : "ChIJw4mgKdM5K4gRGsnFsy8BBug",
+         "plus_code" : {
+            "compound_code" : "J9FX+5F Mississauga, Ontario",
+            "global_code" : "87M2J9FX+5F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJw4mgKdM5K4gRGsnFsy8BBug",
+         "types" : [
+            "pharmacy",
+            "physiotherapist",
+            "doctor",
+            "dentist",
+            "spa",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "515 Lakeshore Rd E Unit #116, Mississauga, ON L5G 1H9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5664775,
+               "lng" : -79.57105539999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56777237989272,
+                  "lng" : -79.56913967010726
+               },
+               "southwest" : {
+                  "lat" : 43.56507272010727,
+                  "lng" : -79.57183932989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e1a0db227aa9ff892b462b13f09b91c35992af81",
+         "name" : "Lakeshore Cawthra Medical Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102553769511302489247\"\u003eAndroid Dave\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtp6_mFIHqZrGZJxnvHX_oKfv8oC1VGsWXtLgZQ3mdY1Ayg653YRLMH5H_bYFdzTcV1wg_9Hk_0jdKEH-2ymx0YJm-T7Jcm3C5_u8T8UrmEkia78SbzUXsP69UAPP2Wt4EhB4DQCsgrXAul3g4vTKpka3GhQQSOmb4GJP3Xg7kwrnhirM8AvIGw",
+               "width" : 3036
+            }
+         ],
+         "place_id" : "ChIJt3N5NSRGK4gRs05S2HSiWoA",
+         "plus_code" : {
+            "compound_code" : "HC8H+HH Mississauga, Ontario",
+            "global_code" : "87M2HC8H+HH"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJt3N5NSRGK4gRs05S2HSiWoA",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 86
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8-680 Silver Creek Blvd, Mississauga, ON L5A 3Z1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5954068,
+               "lng" : -79.6033427
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59690902989273,
+                  "lng" : -79.60189217010728
+               },
+               "southwest" : {
+                  "lat" : 43.59420937010729,
+                  "lng" : -79.60459182989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f1ed899d71bc36c558c32deed4e6b6afa7a0e42a",
+         "name" : "Health Plus Medical Clinic",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJsbm7lAFHK4gRc-fLGG6oib8",
+         "plus_code" : {
+            "compound_code" : "H9WW+5M Mississauga, Ontario",
+            "global_code" : "87M2H9WW+5M"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJsbm7lAFHK4gRc-fLGG6oib8",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5958643,
+               "lng" : -79.7842474
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59726257989271,
+                  "lng" : -79.78297942010728
+               },
+               "southwest" : {
+                  "lat" : 43.59456292010727,
+                  "lng" : -79.78567907989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b4713b1a4e8d7a6276ed6eef206b46b7efe9d7a6",
+         "name" : "Primacy - West Mississauga Medical",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3888,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107487816626051010674\"\u003eSimon Lam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfkJoUdwjWCDnxgxnvd3gJ9QReoHdfJ4OJ0xm_4Ov8dOwE0T9F4khUZavrdyJjlzOYe9DHwjLgR_nNNSnRw5LXsdQpLP6SRFiXbmROSGGaemRP_odaEXuPCaQGzgf0GgfEhB0eIxDtCbhojQnNqRrReKEGhSI9BYVm64zzd3jJdJoZx4T3F_w4w",
+               "width" : 7180
+            }
+         ],
+         "place_id" : "ChIJ7xW3WVNqK4gRkqGwngqzOB8",
+         "plus_code" : {
+            "compound_code" : "H6W8+88 Mississauga, Ontario",
+            "global_code" : "87M2H6W8+88"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ7xW3WVNqK4gRkqGwngqzOB8",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 92
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5030 Tenth Line W #5, Mississauga, ON L5M 7Z5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.543567,
+               "lng" : -79.724929
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.54498607989272,
+                  "lng" : -79.72349557010729
+               },
+               "southwest" : {
+                  "lat" : 43.54228642010728,
+                  "lng" : -79.72619522989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "157b3fb165171f819c3e5a3929a58f332d57e425",
+         "name" : "Mississauga Wellness",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101340279255215124859\"\u003eMississauga Wellness\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzRvakjLP30Mzh8tqlO7UjamFu5ih9s94SuYZpK6tdzBZ62j4_sObII-4ND7f9256SAVc4dwFkSb5q1at4Y5TYg7RPSvZZ47T77HQcLZnXKqfkU7jxYjMTh4gmzz1b92nEhDYxpKkdLIVMG08EqRMWFTBGhSh39lhO4AVCT37MKwaEC_C18YnHQ",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJC7DibhFCK4gR4dB7IxXxTGY",
+         "plus_code" : {
+            "compound_code" : "G7VG+C2 Mississauga, Ontario",
+            "global_code" : "87M2G7VG+C2"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJC7DibhFCK4gR4dB7IxXxTGY",
+         "types" : [
+            "physiotherapist",
+            "doctor",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 108
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1020 Johnsons Ln Unit A3, Mississauga, ON L5J 2P7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5223871,
+               "lng" : -79.6184076
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.52378582989272,
+                  "lng" : -79.61698777010727
+               },
+               "southwest" : {
+                  "lat" : 43.52108617010727,
+                  "lng" : -79.61968742989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f791265f0a95a40271f887fe2d27add6f7c5b828",
+         "name" : "Dr. Dina Nahab Medical Clinic/Nahab Medicine Professional Corporation",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1989,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103657024046336353763\"\u003eDr. Dina Nahab Medical Clinic/Nahab Medicine Professional Corporation\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAju2wUh-Jd2AUxIolyWxXn2b746uBCP0pjyuNx6KypYMjkKtpdDvZp45qgNN9Wwil0yfDmd0QC99W4mCTfK3tC7hKNHYbbLaTh-8st8yL6jiZtW2L4LdVjYF3N486HHG7EhDFRalaFpW9VXEKKYJ4L93YGhSQB3W_aQbOe7HE07YX4PbcsxVVZQ",
+               "width" : 3606
+            }
+         ],
+         "place_id" : "ChIJVVXluEVEK4gR5UTcl9Za-dQ",
+         "plus_code" : {
+            "compound_code" : "G9CJ+XJ Mississauga, Ontario",
+            "global_code" : "87M2G9CJ+XJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJVVXluEVEK4gR5UTcl9Za-dQ",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "802 Southdown Rd C4, Mississauga, ON L5J 2Y4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5069884,
+               "lng" : -79.6253617
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.50847882989272,
+                  "lng" : -79.62381022010727
+               },
+               "southwest" : {
+                  "lat" : 43.50577917010727,
+                  "lng" : -79.62650987989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a9597168ad467d42a98ecc38917069d3f5848c93",
+         "name" : "eMichael Pharmacy & Medical Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 430,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117711076893362300815\"\u003eeMichael Pharmacy &amp; Walk-In Clinic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFGxRpYvct2gprI1F8sIMmVNVUhiA8BXEJau-iBd8u56P981oG_V4YpxJ5QCP1lQxo8JbCDmxLAueHsNGuno-xbVmEhXv-U67aohFFQwQVe6sYXY1OCZAYzFuUbMAsfqxEhCKReFFNIQOXPBHF0aSmZk4GhRlLAuypHwpdrX4uouP7CUB7jn9hA",
+               "width" : 980
+            }
+         ],
+         "place_id" : "ChIJQd0cVvREK4gROKTMaHMhgUY",
+         "plus_code" : {
+            "compound_code" : "G94F+QV Mississauga, Ontario",
+            "global_code" : "87M2G94F+QV"
+         },
+         "rating" : 3,
+         "reference" : "ChIJQd0cVvREK4gROKTMaHMhgUY",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 65
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6045 Creditview Rd, Mississauga, ON L5V 1L6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.600103,
+               "lng" : -79.710047
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60140177989272,
+                  "lng" : -79.70860872010728
+               },
+               "southwest" : {
+                  "lat" : 43.59870212010727,
+                  "lng" : -79.71130837989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5aaead546744b5280bc2838338f87a5b71fbdc54",
+         "name" : "Credit River Medical Clinic",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117311655406883912920\"\u003eLawrence M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd9Q7B1Vfvu5gr4HG6KSfwp8BSdgQpk_mmk2ZoAvkC1xvuvB8WNrePiHbJX7c5FTDNJbJDwj8x8UqtI2S95EI0emwqBJRgxW-A994IYWbMlAKxPrVHBwwoyQPShzTqTfoEhAQ6pSuiOdZ1j3xROyf9K5GGhSgt__h-Du128yJ4Hx_7WJgJ-DjrQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJjz7Q80tAK4gRoZweZUg0_ew",
+         "plus_code" : {
+            "compound_code" : "J72Q+2X Mississauga, Ontario",
+            "global_code" : "87M2J72Q+2X"
+         },
+         "rating" : 3,
+         "reference" : "ChIJjz7Q80tAK4gRoZweZUg0_ew",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4100 Living Arts Dr, Mississauga, ON L5B 0C3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5882379,
+               "lng" : -79.64561809999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.58963472989272,
+                  "lng" : -79.64420652010728
+               },
+               "southwest" : {
+                  "lat" : 43.58693507010727,
+                  "lng" : -79.64690617989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1a3d7e9f7c14526b6040d421642ff1bb2cc55bfc",
+         "name" : "Living Arts Medical Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111431226957112853058\"\u003eAhmed Shehab\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGSeblDvy6Rft9-sJJ_uU5QhGbuF6_mmXvrszd62UTNWxYM6VTjNK_Bb3egfY38xj6Scnl_bdnH1M4OSS738M1vXbA1y7GlcLII_8JX0f2ePba2b5X4TXrbzil3TRALZgEhBaEtqDDUdz4DuRJ3lUNn9mGhSDfYlVhvA8K4_JkWTffmJhv172Cg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJYY9fDSpHK4gRbu9BHDr66Hg",
+         "plus_code" : {
+            "compound_code" : "H9Q3+7Q Mississauga, Ontario",
+            "global_code" : "87M2H9Q3+7Q"
+         },
+         "rating" : 4,
+         "reference" : "ChIJYY9fDSpHK4gRbu9BHDr66Hg",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 40
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1585 Mississauga Valley Blvd, Mississauga, ON L5A 3W9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.592377,
+               "lng" : -79.62646699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59367762989272,
+                  "lng" : -79.62510817010728
+               },
+               "southwest" : {
+                  "lat" : 43.59097797010728,
+                  "lng" : -79.62780782989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "99a3aff928099fe84e2f86a721b550f9c3161308",
+         "name" : "Iona Doctors Clinic",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2880,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101303823226138794162\"\u003eDonald Yap\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYGw1I6igjA7miK3RGiPFFDlOyKspWGdpM969c5GMUyYhSi_rH6AOoH1NE3lmbzgPaLMw0UHtpRhRr1SSnlQ3-M_LWaotwyk62PupRlRiJSPfqzatRnP9QoUHzGD7XP_9EhAuBSoBX2aXYoFocnT_lY-GGhTfMbZPmw6UPOg6mvxrDte-Icor4w",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJN_HHtRhHK4gRFvpB0ohP_Qg",
+         "plus_code" : {
+            "compound_code" : "H9RF+XC Mississauga, Ontario",
+            "global_code" : "87M2H9RF+XC"
+         },
+         "rating" : 1.9,
+         "reference" : "ChIJN_HHtRhHK4gRFvpB0ohP_Qg",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "255 Dundas St W #6A, Mississauga, ON L5B 1V5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5752779,
+               "lng" : -79.62261719999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57653662989272,
+                  "lng" : -79.62111652010728
+               },
+               "southwest" : {
+                  "lat" : 43.57383697010728,
+                  "lng" : -79.62381617989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "860b3cef2ba4b64cb02a36b3e942853d3e243da0",
+         "name" : "Parkerhill Medical Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103784121831057870266\"\u003eRab Krist\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiN5x6thi15xb30QWgMVmjgzEwN9EzE2xV-y6CpoqYWjobwh8ElX5Z8it8Ih4ZUwCSXSnYZT5yN8NhF6sMI7wSVxP9ogGnFF7v5EXfHE8YWkSMspR6Q7GYPZbbP6M1pm_EhCCYgrWfj0ONQ6tktFb7labGhQ8t5xFd153z49dgNXDH2j18l9UOA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_dw5tuhGK4gRkp9enjc0NzI",
+         "plus_code" : {
+            "compound_code" : "H9GG+4X Mississauga, Ontario",
+            "global_code" : "87M2H9GG+4X"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJ_dw5tuhGK4gRkp9enjc0NzI",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "640 Eglinton Ave W Suite 3, Mississauga, ON L5R 3V2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5928089,
+               "lng" : -79.6662108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59413842989272,
+                  "lng" : -79.66488132010727
+               },
+               "southwest" : {
+                  "lat" : 43.59143877010727,
+                  "lng" : -79.66758097989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "56bb58280eee31d56a9f3f4fe22beb496eb049e1",
+         "name" : "Health Plus Walk-In Clinic",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115752800844815162754\"\u003eDon Jabra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjNPs6B_fpm6lKjtIpX78Hv8UtACgg1Or3bjWmKV09GsEL11j6FxvFr5pZggxviFcZZUaZjJyfevRk1evi7bzLYiy86jCDMHpoW9CFNT7j5GWrzXQcObw_FCMakQkNkoQEhACyZJ-ao4u7Sq-vnT_wuHdGhTvuYv7R9wd0-E5K5xsCNEyJyZuEQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJWSQ5tt5AK4gReTLiXhrgVFc",
+         "plus_code" : {
+            "compound_code" : "H8VM+4G Mississauga, Ontario",
+            "global_code" : "87M2H8VM+4G"
+         },
+         "rating" : 2.4,
+         "reference" : "ChIJWSQ5tt5AK4gReTLiXhrgVFc",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 121
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5380 Terry Fox Way #10, Mississauga, ON L5V 0A5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5945299,
+               "lng" : -79.6845969
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59600072989272,
+                  "lng" : -79.68325567010727
+               },
+               "southwest" : {
+                  "lat" : 43.59330107010727,
+                  "lng" : -79.68595532989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bfacd7d4f2a59a8e0fe3cae0387df07da0336cde",
+         "name" : "Terry Fox Medical",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117534506850508434501\"\u003eSandeep Singh Goraya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHIzUPmQSodyW1vLAhXzgPWI6FGY9n-2mianJyu6dZ4y-ZIhPEFNIdNfFQF0tNS2_38BQdZ-vKxKeWViCZ7Unc4-IiMVqsTtV7G6Fu9YhWAufMN-ucRl-E5MFKy6cUJL4EhAkMs-nsTqCgMycVr0yHYBGGhS6sQVtITR8pYulW9ZvGOSqoGmn3A",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ3fevKONAK4gRkB1vRBHRP1o",
+         "plus_code" : {
+            "compound_code" : "H8V8+R5 Mississauga, Ontario",
+            "global_code" : "87M2H8V8+R5"
+         },
+         "rating" : 2.1,
+         "reference" : "ChIJ3fevKONAK4gRkB1vRBHRP1o",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "21 Queensway W, Mississauga, ON L5B 1B6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5738851,
+               "lng" : -79.6084298
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57515157989272,
+                  "lng" : -79.60718457010726
+               },
+               "southwest" : {
+                  "lat" : 43.57245192010727,
+                  "lng" : -79.60988422989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5f9a183297a419eea5e1cfa5cf28d78d36e01cdd",
+         "name" : "Rapid Access to Medical Specialists Clinic",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112727660564665901703\"\u003eRapid Access To Medical Specialists Clinic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8WjlhWa-IZPWsIM9Ngnlue9t5pPQxkAvZapaYA8NHlgJbv-724_DRSZeCm8UzrzGwAENHC_Iv_RYTPqzqDW6O3R9ktMUMpRcdZsabTAwNLRjYPDnBq_johD8NECUmuc7EhB_hwWtOKLwwjbrHcNDc36EGhRtwA-JPCevMLkXK0OWX5ZqmrODSQ",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJ_Q1udfdGK4gRVBjxnUcwens",
+         "plus_code" : {
+            "compound_code" : "H9FR+HJ Mississauga, Ontario",
+            "global_code" : "87M2H9FR+HJ"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJ_Q1udfdGK4gRVBjxnUcwens",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 125
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "0C2, 1 Glenn Hawthorne Blvd #4, Mississauga, ON L5R 4J9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6120867,
+               "lng" : -79.6613792
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61347457989272,
+                  "lng" : -79.65995077010727
+               },
+               "southwest" : {
+                  "lat" : 43.61077492010728,
+                  "lng" : -79.66265042989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fd55f4be0e89b9b0de6af74dc43f70e8c7e108b2",
+         "name" : "Glenn Huron Medical Clinic",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106014325392739460680\"\u003et\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADH-QuMhotZAVnT-OM0ezVM7M1JATIpC0CysxMym1OIEVzniWG5JQ3gYEgkUaiDR3qUQYtUeu2_SNX_GWVX-TzEVfAMwtVx7FpbOH21hZFOg9zupV-9roab3Ek73u_t7vEhCiYkVIXkRGHJSJ08aCMxKCGhTOup4jhIECHIuK_AWiI2vBBoeZnQ",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJGZ3_77lAK4gRodrOgPBWOxQ",
+         "plus_code" : {
+            "compound_code" : "J86Q+RC Mississauga, Ontario",
+            "global_code" : "87M2J86Q+RC"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJGZ3_77lAK4gRodrOgPBWOxQ",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "777 Dundas St W bx0, Mississauga, ON L5C 4P6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5646026,
+               "lng" : -79.6360708
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56589922989271,
+                  "lng" : -79.63477852010728
+               },
+               "southwest" : {
+                  "lat" : 43.56319957010727,
+                  "lng" : -79.63747817989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1c5e4a10794d62872c53a08e97e9311a433310e0",
+         "name" : "10 to 10 Medical Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103784121831057870266\"\u003eRab Krist\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXUGrIyjaiyLONfI0z0EY-QJYLI4Cr3h333uVlM7f8Bw_Ei-9PBnrfV3BAfwy6_tC3qIECvq8B1RcQZUafjmXf3fa7j9DmNHIFYWt7FOP5BO1tqjvyMThOjDNOoTPLJmQEhBqx_nxGwEmhLVqaOwJniHNGhRuQcT_9HdZA4bUnGsvW_1IqU41UQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJHdcCdrlGK4gRlq4TxAVBYtY",
+         "plus_code" : {
+            "compound_code" : "H977+RH Mississauga, Ontario",
+            "global_code" : "87M2H977+RH"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJHdcCdrlGK4gRlq4TxAVBYtY",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "325 Central Parkway West Unit 21 Parkway West Plaza, Mississauga, ON L5B 3X9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5829244,
+               "lng" : -79.6391204
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.58433692989271,
+                  "lng" : -79.63768897010726
+               },
+               "southwest" : {
+                  "lat" : 43.58163727010727,
+                  "lng" : -79.64038862989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "277216bdabea2d161a37b16e6b974a4d64b5a0e3",
+         "name" : "Fairview Baby Feeding Support Clinic",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 797,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107884500856465963665\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAe3Nrxgae6X-dt4OKehJTmGtX5KNA_iF51R_tY_zZsyY5FK-R7fX3J7PWYeanCqw9Hj-csM0q_F0tLgNJgnGpZMkgN2FOM0JHv1CZtS0C1vlz7WpuscTGYNUetthj5EFnEhBY8cMPkZgRrGkLeDMUZqtBGhRtESNY6TtnYLQmk2Jpyw7e4DSAsA",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJt2cSXONGK4gRAevoOayi3LY",
+         "plus_code" : {
+            "compound_code" : "H9M6+59 Mississauga, Ontario",
+            "global_code" : "87M2H9M6+59"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJt2cSXONGK4gRAevoOayi3LY",
+         "types" : [
+            "local_government_office",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 39
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "# 1L8, 6400 Millcreek Dr Unit #9, Mississauga, ON L5N 3E7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5886613,
+               "lng" : -79.74025039999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59013662989272,
+                  "lng" : -79.73886692010727
+               },
+               "southwest" : {
+                  "lat" : 43.58743697010728,
+                  "lng" : -79.74156657989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c117350af9154dd225795d3c8289e09a006c8966",
+         "name" : "MCI The Doctor's Office Meadowvale",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100383255151900578843\"\u003eDawn M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANGYrFepUDlAUH6HrpOxDKOZIO_skTyg5YBykHQHFKgDp2LDP-axAsYaGs4CJFX8OtYFzehfKwHz5UUJqdwx0G49WsDGrb-MFVjuoyPt_7vI0NfWvA9Yy7Vj1g0G1Zdq6EhDOM-naqJJNvW4YGyderT5jGhTx8yEGUHNZvyuLBUqnv5s1RV-opw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJa1VVZXdqK4gRaIIjqI1PkgQ",
+         "plus_code" : {
+            "compound_code" : "H7Q5+FV Mississauga, Ontario",
+            "global_code" : "87M2H7Q5+FV"
+         },
+         "rating" : 2,
+         "reference" : "ChIJa1VVZXdqK4gRaIIjqI1PkgQ",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 70
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2315 Bristol Cir #104, Oakville, ON L6H 6P8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5167296,
+               "lng" : -79.67503090000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.51802127989272,
+                  "lng" : -79.67376272010726
+               },
+               "southwest" : {
+                  "lat" : 43.51532162010727,
+                  "lng" : -79.67646237989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "fec7d22021395fd38dd7b639d8fd16271d8288fc",
+         "name" : "Winston Park Medical Centre - Family Physicians & Walk-In Clinic",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110271159422083610258\"\u003eTarek Charif\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdOQUxPiui8zgLdymptl0SjcLkJAcc-9deL2G9vYS0rm2J9krnGNvmNcUlQADLayQ0ki66EGsOorFAIsPDsqa_FhGvyNgPxSvpAgb9-w1vfayc4F1893RRQmcTl5UrcR0EhBfvoOHPwZu-gi5Cw1qQLCXGhTd-3OTd6szyIzgCcFviPX_ZJhlPA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJyVbu9qBDK4gRfJgjz-Gi1sA",
+         "plus_code" : {
+            "compound_code" : "G88F+MX Oakville, Ontario",
+            "global_code" : "87M2G88F+MX"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJyVbu9qBDK4gRfJgjz-Gi1sA",
+         "types" : [
+            "pharmacy",
+            "hospital",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 105
+      },
+      {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "223 Ceremonial Dr Unit 3, Mississauga, ON L5R 2N3, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.604906,
+                "lng" : -79.6633676
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.60619662989272,
+                   "lng" : -79.66169187010728
+                },
+                "southwest" : {
+                   "lat" : 43.60349697010728,
+                   "lng" : -79.66439152989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "4d0ea0020bd5236f5900ee071ca03e954deadc88",
+          "name" : "Ceremonial Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1334,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105344578742170188272\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAl3JNMKH59YVWg8dqAqn7c8cX3M5-1RsFQKNQlUP-F-j6Fq5J_g-IclTnJchiUMV5VlHkhbjvB8V8nxwDYDW8o-goTtUtX29FC9LeMUyyYtxvJHRXQRw2VkuYJ7eg_873EhDFKgRz02L5Oku-phdmzkzoGhQ1x-nH-pUxh1BURJkDF8zk8qZcLQ",
+                "width" : 750
+             }
+          ],
+          "place_id" : "ChIJv-JROcZAK4gRK73V4NwqQ68",
+          "plus_code" : {
+             "compound_code" : "J83P+XM Mississauga, Ontario",
+             "global_code" : "87M2J83P+XM"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJv-JROcZAK4gRK73V4NwqQ68",
+          "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 35
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "1420 Burnhamthorpe Rd E Suite 340, Mississauga, ON L4X 2Z9, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.622949,
+                "lng" : -79.6013391
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.62434597989272,
+                   "lng" : -79.60007232010727
+                },
+                "southwest" : {
+                   "lat" : 43.62164632010728,
+                   "lng" : -79.60277197989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "e4a4e39867b33fd7f4f1e2dd694ad1f3fe47130a",
+          "name" : "No Wait Walk-in Clinic Mississauga",
+          "place_id" : "ChIJw4mgKdM5K4gRGsnFsy8BBug",
+          "plus_code" : {
+             "compound_code" : "J9FX+5F Mississauga, Ontario",
+             "global_code" : "87M2J9FX+5F"
+          },
+          "rating" : 5,
+          "reference" : "ChIJw4mgKdM5K4gRGsnFsy8BBug",
+          "types" : [
+             "pharmacy",
+             "physiotherapist",
+             "doctor",
+             "dentist",
+             "spa",
+             "health",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 1
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "515 Lakeshore Rd E Unit #116, Mississauga, ON L5G 1H9, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5664775,
+                "lng" : -79.57105539999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.56777237989272,
+                   "lng" : -79.56913967010726
+                },
+                "southwest" : {
+                   "lat" : 43.56507272010727,
+                   "lng" : -79.57183932989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "e1a0db227aa9ff892b462b13f09b91c35992af81",
+          "name" : "Lakeshore Cawthra Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4048,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102553769511302489247\"\u003eAndroid Dave\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAtp6_mFIHqZrGZJxnvHX_oKfv8oC1VGsWXtLgZQ3mdY1Ayg653YRLMH5H_bYFdzTcV1wg_9Hk_0jdKEH-2ymx0YJm-T7Jcm3C5_u8T8UrmEkia78SbzUXsP69UAPP2Wt4EhB4DQCsgrXAul3g4vTKpka3GhQQSOmb4GJP3Xg7kwrnhirM8AvIGw",
+                "width" : 3036
+             }
+          ],
+          "place_id" : "ChIJt3N5NSRGK4gRs05S2HSiWoA",
+          "plus_code" : {
+             "compound_code" : "HC8H+HH Mississauga, Ontario",
+             "global_code" : "87M2HC8H+HH"
+          },
+          "rating" : 3.7,
+          "reference" : "ChIJt3N5NSRGK4gRs05S2HSiWoA",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 86
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "8-680 Silver Creek Blvd, Mississauga, ON L5A 3Z1, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5954068,
+                "lng" : -79.6033427
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.59690902989273,
+                   "lng" : -79.60189217010728
+                },
+                "southwest" : {
+                   "lat" : 43.59420937010729,
+                   "lng" : -79.60459182989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "f1ed899d71bc36c558c32deed4e6b6afa7a0e42a",
+          "name" : "Health Plus Medical Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJsbm7lAFHK4gRc-fLGG6oib8",
+          "plus_code" : {
+             "compound_code" : "H9WW+5M Mississauga, Ontario",
+             "global_code" : "87M2H9WW+5M"
+          },
+          "rating" : 3.7,
+          "reference" : "ChIJsbm7lAFHK4gRc-fLGG6oib8",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 21
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5958643,
+                "lng" : -79.7842474
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.59726257989271,
+                   "lng" : -79.78297942010728
+                },
+                "southwest" : {
+                   "lat" : 43.59456292010727,
+                   "lng" : -79.78567907989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "b4713b1a4e8d7a6276ed6eef206b46b7efe9d7a6",
+          "name" : "Primacy - West Mississauga Medical",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3888,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107487816626051010674\"\u003eSimon Lam\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAfkJoUdwjWCDnxgxnvd3gJ9QReoHdfJ4OJ0xm_4Ov8dOwE0T9F4khUZavrdyJjlzOYe9DHwjLgR_nNNSnRw5LXsdQpLP6SRFiXbmROSGGaemRP_odaEXuPCaQGzgf0GgfEhB0eIxDtCbhojQnNqRrReKEGhSI9BYVm64zzd3jJdJoZx4T3F_w4w",
+                "width" : 7180
+             }
+          ],
+          "place_id" : "ChIJ7xW3WVNqK4gRkqGwngqzOB8",
+          "plus_code" : {
+             "compound_code" : "H6W8+88 Mississauga, Ontario",
+             "global_code" : "87M2H6W8+88"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJ7xW3WVNqK4gRkqGwngqzOB8",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 92
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "5030 Tenth Line W #5, Mississauga, ON L5M 7Z5, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.543567,
+                "lng" : -79.724929
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.54498607989272,
+                   "lng" : -79.72349557010729
+                },
+                "southwest" : {
+                   "lat" : 43.54228642010728,
+                   "lng" : -79.72619522989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "157b3fb165171f819c3e5a3929a58f332d57e425",
+          "name" : "Mississauga Wellness",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2048,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101340279255215124859\"\u003eMississauga Wellness\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAzRvakjLP30Mzh8tqlO7UjamFu5ih9s94SuYZpK6tdzBZ62j4_sObII-4ND7f9256SAVc4dwFkSb5q1at4Y5TYg7RPSvZZ47T77HQcLZnXKqfkU7jxYjMTh4gmzz1b92nEhDYxpKkdLIVMG08EqRMWFTBGhSh39lhO4AVCT37MKwaEC_C18YnHQ",
+                "width" : 1536
+             }
+          ],
+          "place_id" : "ChIJC7DibhFCK4gR4dB7IxXxTGY",
+          "plus_code" : {
+             "compound_code" : "G7VG+C2 Mississauga, Ontario",
+             "global_code" : "87M2G7VG+C2"
+          },
+          "rating" : 3.6,
+          "reference" : "ChIJC7DibhFCK4gR4dB7IxXxTGY",
+          "types" : [
+             "physiotherapist",
+             "doctor",
+             "health",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 108
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "1020 Johnsons Ln Unit A3, Mississauga, ON L5J 2P7, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5223871,
+                "lng" : -79.6184076
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.52378582989272,
+                   "lng" : -79.61698777010727
+                },
+                "southwest" : {
+                   "lat" : 43.52108617010727,
+                   "lng" : -79.61968742989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "f791265f0a95a40271f887fe2d27add6f7c5b828",
+          "name" : "Dr. Dina Nahab Medical Clinic/Nahab Medicine Professional Corporation",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1989,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103657024046336353763\"\u003eDr. Dina Nahab Medical Clinic/Nahab Medicine Professional Corporation\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAju2wUh-Jd2AUxIolyWxXn2b746uBCP0pjyuNx6KypYMjkKtpdDvZp45qgNN9Wwil0yfDmd0QC99W4mCTfK3tC7hKNHYbbLaTh-8st8yL6jiZtW2L4LdVjYF3N486HHG7EhDFRalaFpW9VXEKKYJ4L93YGhSQB3W_aQbOe7HE07YX4PbcsxVVZQ",
+                "width" : 3606
+             }
+          ],
+          "place_id" : "ChIJVVXluEVEK4gR5UTcl9Za-dQ",
+          "plus_code" : {
+             "compound_code" : "G9CJ+XJ Mississauga, Ontario",
+             "global_code" : "87M2G9CJ+XJ"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJVVXluEVEK4gR5UTcl9Za-dQ",
+          "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 24
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "802 Southdown Rd C4, Mississauga, ON L5J 2Y4, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5069884,
+                "lng" : -79.6253617
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.50847882989272,
+                   "lng" : -79.62381022010727
+                },
+                "southwest" : {
+                   "lat" : 43.50577917010727,
+                   "lng" : -79.62650987989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "a9597168ad467d42a98ecc38917069d3f5848c93",
+          "name" : "eMichael Pharmacy & Medical Center",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 430,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117711076893362300815\"\u003eeMichael Pharmacy &amp; Walk-In Clinic\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAFGxRpYvct2gprI1F8sIMmVNVUhiA8BXEJau-iBd8u56P981oG_V4YpxJ5QCP1lQxo8JbCDmxLAueHsNGuno-xbVmEhXv-U67aohFFQwQVe6sYXY1OCZAYzFuUbMAsfqxEhCKReFFNIQOXPBHF0aSmZk4GhRlLAuypHwpdrX4uouP7CUB7jn9hA",
+                "width" : 980
+             }
+          ],
+          "place_id" : "ChIJQd0cVvREK4gROKTMaHMhgUY",
+          "plus_code" : {
+             "compound_code" : "G94F+QV Mississauga, Ontario",
+             "global_code" : "87M2G94F+QV"
+          },
+          "rating" : 3,
+          "reference" : "ChIJQd0cVvREK4gROKTMaHMhgUY",
+          "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+          "user_ratings_total" : 65
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "6045 Creditview Rd, Mississauga, ON L5V 1L6, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.600103,
+                "lng" : -79.710047
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.60140177989272,
+                   "lng" : -79.70860872010728
+                },
+                "southwest" : {
+                   "lat" : 43.59870212010727,
+                   "lng" : -79.71130837989273
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "5aaead546744b5280bc2838338f87a5b71fbdc54",
+          "name" : "Credit River Medical Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117311655406883912920\"\u003eLawrence M\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAd9Q7B1Vfvu5gr4HG6KSfwp8BSdgQpk_mmk2ZoAvkC1xvuvB8WNrePiHbJX7c5FTDNJbJDwj8x8UqtI2S95EI0emwqBJRgxW-A994IYWbMlAKxPrVHBwwoyQPShzTqTfoEhAQ6pSuiOdZ1j3xROyf9K5GGhSgt__h-Du128yJ4Hx_7WJgJ-DjrQ",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJjz7Q80tAK4gRoZweZUg0_ew",
+          "plus_code" : {
+             "compound_code" : "J72Q+2X Mississauga, Ontario",
+             "global_code" : "87M2J72Q+2X"
+          },
+          "rating" : 3,
+          "reference" : "ChIJjz7Q80tAK4gRoZweZUg0_ew",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 67
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "4100 Living Arts Dr, Mississauga, ON L5B 0C3, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5882379,
+                "lng" : -79.64561809999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.58963472989272,
+                   "lng" : -79.64420652010728
+                },
+                "southwest" : {
+                   "lat" : 43.58693507010727,
+                   "lng" : -79.64690617989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "1a3d7e9f7c14526b6040d421642ff1bb2cc55bfc",
+          "name" : "Living Arts Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111431226957112853058\"\u003eAhmed Shehab\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAGSeblDvy6Rft9-sJJ_uU5QhGbuF6_mmXvrszd62UTNWxYM6VTjNK_Bb3egfY38xj6Scnl_bdnH1M4OSS738M1vXbA1y7GlcLII_8JX0f2ePba2b5X4TXrbzil3TRALZgEhBaEtqDDUdz4DuRJ3lUNn9mGhSDfYlVhvA8K4_JkWTffmJhv172Cg",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJYY9fDSpHK4gRbu9BHDr66Hg",
+          "plus_code" : {
+             "compound_code" : "H9Q3+7Q Mississauga, Ontario",
+             "global_code" : "87M2H9Q3+7Q"
+          },
+          "rating" : 4,
+          "reference" : "ChIJYY9fDSpHK4gRbu9BHDr66Hg",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 40
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "1585 Mississauga Valley Blvd, Mississauga, ON L5A 3W9, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.592377,
+                "lng" : -79.62646699999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.59367762989272,
+                   "lng" : -79.62510817010728
+                },
+                "southwest" : {
+                   "lat" : 43.59097797010728,
+                   "lng" : -79.62780782989273
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "99a3aff928099fe84e2f86a721b550f9c3161308",
+          "name" : "Iona Doctors Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2880,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101303823226138794162\"\u003eDonald Yap\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAYGw1I6igjA7miK3RGiPFFDlOyKspWGdpM969c5GMUyYhSi_rH6AOoH1NE3lmbzgPaLMw0UHtpRhRr1SSnlQ3-M_LWaotwyk62PupRlRiJSPfqzatRnP9QoUHzGD7XP_9EhAuBSoBX2aXYoFocnT_lY-GGhTfMbZPmw6UPOg6mvxrDte-Icor4w",
+                "width" : 2160
+             }
+          ],
+          "place_id" : "ChIJN_HHtRhHK4gRFvpB0ohP_Qg",
+          "plus_code" : {
+             "compound_code" : "H9RF+XC Mississauga, Ontario",
+             "global_code" : "87M2H9RF+XC"
+          },
+          "rating" : 1.9,
+          "reference" : "ChIJN_HHtRhHK4gRFvpB0ohP_Qg",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 43
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "255 Dundas St W #6A, Mississauga, ON L5B 1V5, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5752779,
+                "lng" : -79.62261719999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57653662989272,
+                   "lng" : -79.62111652010728
+                },
+                "southwest" : {
+                   "lat" : 43.57383697010728,
+                   "lng" : -79.62381617989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "860b3cef2ba4b64cb02a36b3e942853d3e243da0",
+          "name" : "Parkerhill Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103784121831057870266\"\u003eRab Krist\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAiN5x6thi15xb30QWgMVmjgzEwN9EzE2xV-y6CpoqYWjobwh8ElX5Z8it8Ih4ZUwCSXSnYZT5yN8NhF6sMI7wSVxP9ogGnFF7v5EXfHE8YWkSMspR6Q7GYPZbbP6M1pm_EhCCYgrWfj0ONQ6tktFb7labGhQ8t5xFd153z49dgNXDH2j18l9UOA",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJ_dw5tuhGK4gRkp9enjc0NzI",
+          "plus_code" : {
+             "compound_code" : "H9GG+4X Mississauga, Ontario",
+             "global_code" : "87M2H9GG+4X"
+          },
+          "rating" : 2.7,
+          "reference" : "ChIJ_dw5tuhGK4gRkp9enjc0NzI",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 7
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "640 Eglinton Ave W Suite 3, Mississauga, ON L5R 3V2, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5928089,
+                "lng" : -79.6662108
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.59413842989272,
+                   "lng" : -79.66488132010727
+                },
+                "southwest" : {
+                   "lat" : 43.59143877010727,
+                   "lng" : -79.66758097989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "56bb58280eee31d56a9f3f4fe22beb496eb049e1",
+          "name" : "Health Plus Walk-In Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1536,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115752800844815162754\"\u003eDon Jabra\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAjNPs6B_fpm6lKjtIpX78Hv8UtACgg1Or3bjWmKV09GsEL11j6FxvFr5pZggxviFcZZUaZjJyfevRk1evi7bzLYiy86jCDMHpoW9CFNT7j5GWrzXQcObw_FCMakQkNkoQEhACyZJ-ao4u7Sq-vnT_wuHdGhTvuYv7R9wd0-E5K5xsCNEyJyZuEQ",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJWSQ5tt5AK4gReTLiXhrgVFc",
+          "plus_code" : {
+             "compound_code" : "H8VM+4G Mississauga, Ontario",
+             "global_code" : "87M2H8VM+4G"
+          },
+          "rating" : 2.4,
+          "reference" : "ChIJWSQ5tt5AK4gReTLiXhrgVFc",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 121
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "5380 Terry Fox Way #10, Mississauga, ON L5V 0A5, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5945299,
+                "lng" : -79.6845969
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.59600072989272,
+                   "lng" : -79.68325567010727
+                },
+                "southwest" : {
+                   "lat" : 43.59330107010727,
+                   "lng" : -79.68595532989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "bfacd7d4f2a59a8e0fe3cae0387df07da0336cde",
+          "name" : "Terry Fox Medical",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117534506850508434501\"\u003eSandeep Singh Goraya\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAHIzUPmQSodyW1vLAhXzgPWI6FGY9n-2mianJyu6dZ4y-ZIhPEFNIdNfFQF0tNS2_38BQdZ-vKxKeWViCZ7Unc4-IiMVqsTtV7G6Fu9YhWAufMN-ucRl-E5MFKy6cUJL4EhAkMs-nsTqCgMycVr0yHYBGGhS6sQVtITR8pYulW9ZvGOSqoGmn3A",
+                "width" : 3840
+             }
+          ],
+          "place_id" : "ChIJ3fevKONAK4gRkB1vRBHRP1o",
+          "plus_code" : {
+             "compound_code" : "H8V8+R5 Mississauga, Ontario",
+             "global_code" : "87M2H8V8+R5"
+          },
+          "rating" : 2.1,
+          "reference" : "ChIJ3fevKONAK4gRkB1vRBHRP1o",
+          "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 77
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "21 Queensway W, Mississauga, ON L5B 1B6, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5738851,
+                "lng" : -79.6084298
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57515157989272,
+                   "lng" : -79.60718457010726
+                },
+                "southwest" : {
+                   "lat" : 43.57245192010727,
+                   "lng" : -79.60988422989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "5f9a183297a419eea5e1cfa5cf28d78d36e01cdd",
+          "name" : "Rapid Access to Medical Specialists Clinic",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3648,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112727660564665901703\"\u003eRapid Access To Medical Specialists Clinic\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA8WjlhWa-IZPWsIM9Ngnlue9t5pPQxkAvZapaYA8NHlgJbv-724_DRSZeCm8UzrzGwAENHC_Iv_RYTPqzqDW6O3R9ktMUMpRcdZsabTAwNLRjYPDnBq_johD8NECUmuc7EhB_hwWtOKLwwjbrHcNDc36EGhRtwA-JPCevMLkXK0OWX5ZqmrODSQ",
+                "width" : 5472
+             }
+          ],
+          "place_id" : "ChIJ_Q1udfdGK4gRVBjxnUcwens",
+          "plus_code" : {
+             "compound_code" : "H9FR+HJ Mississauga, Ontario",
+             "global_code" : "87M2H9FR+HJ"
+          },
+          "rating" : 3.2,
+          "reference" : "ChIJ_Q1udfdGK4gRVBjxnUcwens",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 125
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "0C2, 1 Glenn Hawthorne Blvd #4, Mississauga, ON L5R 4J9, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.6120867,
+                "lng" : -79.6613792
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.61347457989272,
+                   "lng" : -79.65995077010727
+                },
+                "southwest" : {
+                   "lat" : 43.61077492010728,
+                   "lng" : -79.66265042989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "fd55f4be0e89b9b0de6af74dc43f70e8c7e108b2",
+          "name" : "Glenn Huron Medical Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2920,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106014325392739460680\"\u003et\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAADH-QuMhotZAVnT-OM0ezVM7M1JATIpC0CysxMym1OIEVzniWG5JQ3gYEgkUaiDR3qUQYtUeu2_SNX_GWVX-TzEVfAMwtVx7FpbOH21hZFOg9zupV-9roab3Ek73u_t7vEhCiYkVIXkRGHJSJ08aCMxKCGhTOup4jhIECHIuK_AWiI2vBBoeZnQ",
+                "width" : 5184
+             }
+          ],
+          "place_id" : "ChIJGZ3_77lAK4gRodrOgPBWOxQ",
+          "plus_code" : {
+             "compound_code" : "J86Q+RC Mississauga, Ontario",
+             "global_code" : "87M2J86Q+RC"
+          },
+          "rating" : 2.9,
+          "reference" : "ChIJGZ3_77lAK4gRodrOgPBWOxQ",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 29
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "777 Dundas St W bx0, Mississauga, ON L5C 4P6, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5646026,
+                "lng" : -79.6360708
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.56589922989271,
+                   "lng" : -79.63477852010728
+                },
+                "southwest" : {
+                   "lat" : 43.56319957010727,
+                   "lng" : -79.63747817989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "1c5e4a10794d62872c53a08e97e9311a433310e0",
+          "name" : "10 to 10 Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103784121831057870266\"\u003eRab Krist\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAXUGrIyjaiyLONfI0z0EY-QJYLI4Cr3h333uVlM7f8Bw_Ei-9PBnrfV3BAfwy6_tC3qIECvq8B1RcQZUafjmXf3fa7j9DmNHIFYWt7FOP5BO1tqjvyMThOjDNOoTPLJmQEhBqx_nxGwEmhLVqaOwJniHNGhRuQcT_9HdZA4bUnGsvW_1IqU41UQ",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJHdcCdrlGK4gRlq4TxAVBYtY",
+          "plus_code" : {
+             "compound_code" : "H977+RH Mississauga, Ontario",
+             "global_code" : "87M2H977+RH"
+          },
+          "rating" : 2.9,
+          "reference" : "ChIJHdcCdrlGK4gRlq4TxAVBYtY",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 13
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "325 Central Parkway West Unit 21 Parkway West Plaza, Mississauga, ON L5B 3X9, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5829244,
+                "lng" : -79.6391204
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.58433692989271,
+                   "lng" : -79.63768897010726
+                },
+                "southwest" : {
+                   "lat" : 43.58163727010727,
+                   "lng" : -79.64038862989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "277216bdabea2d161a37b16e6b974a4d64b5a0e3",
+          "name" : "Fairview Baby Feeding Support Clinic",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 797,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107884500856465963665\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAe3Nrxgae6X-dt4OKehJTmGtX5KNA_iF51R_tY_zZsyY5FK-R7fX3J7PWYeanCqw9Hj-csM0q_F0tLgNJgnGpZMkgN2FOM0JHv1CZtS0C1vlz7WpuscTGYNUetthj5EFnEhBY8cMPkZgRrGkLeDMUZqtBGhRtESNY6TtnYLQmk2Jpyw7e4DSAsA",
+                "width" : 1200
+             }
+          ],
+          "place_id" : "ChIJt2cSXONGK4gRAevoOayi3LY",
+          "plus_code" : {
+             "compound_code" : "H9M6+59 Mississauga, Ontario",
+             "global_code" : "87M2H9M6+59"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJt2cSXONGK4gRAevoOayi3LY",
+          "types" : [
+             "local_government_office",
+             "health",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 39
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "# 1L8, 6400 Millcreek Dr Unit #9, Mississauga, ON L5N 3E7, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5886613,
+                "lng" : -79.74025039999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.59013662989272,
+                   "lng" : -79.73886692010727
+                },
+                "southwest" : {
+                   "lat" : 43.58743697010728,
+                   "lng" : -79.74156657989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "c117350af9154dd225795d3c8289e09a006c8966",
+          "name" : "MCI The Doctor's Office Meadowvale",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2340,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/100383255151900578843\"\u003eDawn M\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAANGYrFepUDlAUH6HrpOxDKOZIO_skTyg5YBykHQHFKgDp2LDP-axAsYaGs4CJFX8OtYFzehfKwHz5UUJqdwx0G49WsDGrb-MFVjuoyPt_7vI0NfWvA9Yy7Vj1g0G1Zdq6EhDOM-naqJJNvW4YGyderT5jGhTx8yEGUHNZvyuLBUqnv5s1RV-opw",
+                "width" : 4160
+             }
+          ],
+          "place_id" : "ChIJa1VVZXdqK4gRaIIjqI1PkgQ",
+          "plus_code" : {
+             "compound_code" : "H7Q5+FV Mississauga, Ontario",
+             "global_code" : "87M2H7Q5+FV"
+          },
+          "rating" : 2,
+          "reference" : "ChIJa1VVZXdqK4gRaIIjqI1PkgQ",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 70
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "2315 Bristol Cir #104, Oakville, ON L6H 6P8, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5167296,
+                "lng" : -79.67503090000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.51802127989272,
+                   "lng" : -79.67376272010726
+                },
+                "southwest" : {
+                   "lat" : 43.51532162010727,
+                   "lng" : -79.67646237989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+          "id" : "fec7d22021395fd38dd7b639d8fd16271d8288fc",
+          "name" : "Winston Park Medical Centre - Family Physicians & Walk-In Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110271159422083610258\"\u003eTarek Charif\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAdOQUxPiui8zgLdymptl0SjcLkJAcc-9deL2G9vYS0rm2J9krnGNvmNcUlQADLayQ0ki66EGsOorFAIsPDsqa_FhGvyNgPxSvpAgb9-w1vfayc4F1893RRQmcTl5UrcR0EhBfvoOHPwZu-gi5Cw1qQLCXGhTd-3OTd6szyIzgCcFviPX_ZJhlPA",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJyVbu9qBDK4gRfJgjz-Gi1sA",
+          "plus_code" : {
+             "compound_code" : "G88F+MX Oakville, Ontario",
+             "global_code" : "87M2G88F+MX"
+          },
+          "rating" : 3.3,
+          "reference" : "ChIJyVbu9qBDK4gRfJgjz-Gi1sA",
+          "types" : [
+             "pharmacy",
+             "hospital",
+             "health",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 105
+       },
+        {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "3020 Thomas St A301, Mississauga, ON L5M 0R4, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5600794,
+                "lng" : -79.7340313
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.56137672989272,
+                   "lng" : -79.73276222010728
+                },
+                "southwest" : {
+                   "lat" : 43.55867707010728,
+                   "lng" : -79.73546187989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "5c50586f73ae0a2f2cf04110a4d00f6ff738a816",
+          "name" : "Churchill Meadows Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110410226192763445230\"\u003eAbba Ji\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA9XAXtYgNRtm4VUoAnmoN1cTrsC83wN9ylzWeimaLY106THRKPW6cZ9HlKSHQecS_-ScAH21-ak0rQbQH1Yo2swbSfyiBJIismDEpP4L89KxfZB_GYBnvYd2mPw1bTACpEhDpPXHizWWmIcyhZQoRlQHIGhRNypt3pxPGXnMgqsHhU1lgSJoSaw",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJ42mCJflBK4gRooFxoeTv_VQ",
+          "plus_code" : {
+             "compound_code" : "H768+29 Mississauga, Ontario",
+             "global_code" : "87M2H768+29"
+          },
+          "rating" : 2.7,
+          "reference" : "ChIJ42mCJflBK4gRooFxoeTv_VQ",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 56
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "6405 Erin Mills Pkwy Unit A01, Mississauga, ON L5N 4H4, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5861018,
+                "lng" : -79.74165719999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.58745902989273,
+                   "lng" : -79.74018757010728
+                },
+                "southwest" : {
+                   "lat" : 43.58475937010728,
+                   "lng" : -79.74288722989273
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "03249ef64a5ce392c3d6385dc0f0ea7fade43836",
+          "name" : "Battleford Medical Walk-In Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/100690571927244111031\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAM2TTepeOjuNheC5qylHBTj6szdBGBu8kZ0GEMnfGfE2yEPiJUVVTxsuWyB_T9bayuFLnLDWKBkaRMT8LfLeJC7WoqXvQTI9AMbxkOpdtdsJ-AV8gFxJEKZiSFPZMjYGCEhAanvltNPYYyyWwA-e2Ii1tGhRBiMElUvpYcKh6CHfCDKAmWClKpw",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJ1RNJT59rK4gRRGR-xJGOzN4",
+          "plus_code" : {
+             "compound_code" : "H7P5+C8 Mississauga, Ontario",
+             "global_code" : "87M2H7P5+C8"
+          },
+          "rating" : 4,
+          "reference" : "ChIJ1RNJT59rK4gRRGR-xJGOzN4",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 10
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "796 Burnhamthorpe Rd W, Mississauga, ON L5C 2R9, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5759594,
+                "lng" : -79.65393829999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57724577989272,
+                   "lng" : -79.65249157010729
+                },
+                "southwest" : {
+                   "lat" : 43.57454612010728,
+                   "lng" : -79.65519122989274
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "b7e95ae9d0f4d0a8e689f23042edaa27f3433b82",
+          "name" : "Family Medicine and walk-in clinic Dr M. Tasneem & D N. Ayub",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118354212740112934834\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAgTjdzXG80s-jO18mb4BHdCznMSip_m-nNGe5mnfe3ucuj27hXDl7vOuglswY_E32ToyvJ3ShswV8lENpJlWr-zbKQTZS7xe_1N_wY-1KOJvWIoI-0v0-ljuYN9Dz1TzVEhDJJRh0FXacTUPmVXvoNKtPGhRs5L2UDYMs3HqpEKU773CGu1uHbA",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJFzNoXrRBK4gRt0p88eXMdKI",
+          "plus_code" : {
+             "compound_code" : "H8GW+9C Mississauga, Ontario",
+             "global_code" : "87M2H8GW+9C"
+          },
+          "rating" : 4.8,
+          "reference" : "ChIJFzNoXrRBK4gRt0p88eXMdKI",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 5
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "2500 Hurontario St, Mississauga, ON L5B 1N4, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5776532,
+                "lng" : -79.6143273
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57906082989273,
+                   "lng" : -79.61289537010728
+                },
+                "southwest" : {
+                   "lat" : 43.57636117010728,
+                   "lng" : -79.61559502989273
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "e13c37fbeaa561c4c82f22bfa356fe6fd8e4862e",
+          "name" : "Huron Square Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJrbCP-_pGK4gRtHeCkPgm3DE",
+          "plus_code" : {
+             "compound_code" : "H9HP+37 Mississauga, Ontario",
+             "global_code" : "87M2H9HP+37"
+          },
+          "rating" : 3.2,
+          "reference" : "ChIJrbCP-_pGK4gRtHeCkPgm3DE",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 25
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "5010 Glen Erin Dr, Mississauga, ON L5M 6J3, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.554668,
+                "lng" : -79.715003
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.55604847989272,
+                   "lng" : -79.71324982010727
+                },
+                "southwest" : {
+                   "lat" : 43.55334882010727,
+                   "lng" : -79.71594947989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "e480c2b27d5a0d200bd45ab845d5ad9a10584d08",
+          "name" : "Primacy - Health Care Plus",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJCeYMWSBCK4gRXMVj3KjHM4c",
+          "plus_code" : {
+             "compound_code" : "H73M+VX Mississauga, Ontario",
+             "global_code" : "87M2H73M+VX"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJCeYMWSBCK4gRXMVj3KjHM4c",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 5
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "3020 Thomas St, Mississauga, ON L5M 0N7, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5601086,
+                "lng" : -79.73412930000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.56141707989272,
+                   "lng" : -79.73284312010729
+                },
+                "southwest" : {
+                   "lat" : 43.55871742010728,
+                   "lng" : -79.73554277989273
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "cc21bab83e188346d941d64877fe602016a14715",
+          "name" : "Family Medicine Walk-In Clinic",
+          "place_id" : "ChIJr3l01PhBK4gRi010DHpcMPE",
+          "plus_code" : {
+             "compound_code" : "H768+28 Mississauga, Ontario",
+             "global_code" : "87M2H768+28"
+          },
+          "rating" : 3,
+          "reference" : "ChIJr3l01PhBK4gRi010DHpcMPE",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "2315 Bristol Cir #104, Oakville, ON L6H 6P8, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5167296,
+                "lng" : -79.67503090000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.51802127989272,
+                   "lng" : -79.67376272010726
+                },
+                "southwest" : {
+                   "lat" : 43.51532162010727,
+                   "lng" : -79.67646237989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+          "id" : "fec7d22021395fd38dd7b639d8fd16271d8288fc",
+          "name" : "Winston Park Medical Centre - Family Physicians & Walk-In Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110271159422083610258\"\u003eTarek Charif\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAjasHOHVWKpSx7tsA_JKOgI_5KcE7_E6NQyKsXim9yVI7Ospr95tZOtpvVChO_o7YeOHZwdvxtPIbKGWwJSqFM5f6lqEyK3r6S2yw9G-tjQqT8ttxv2K3RWyOXs_zOtZUEhDVDAOmwEj030QyTnJyLF9SGhSerwRHch4pcA6l86f8B0NmgVc1Hg",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJyVbu9qBDK4gRfJgjz-Gi1sA",
+          "plus_code" : {
+             "compound_code" : "G88F+MX Oakville, Ontario",
+             "global_code" : "87M2G88F+MX"
+          },
+          "rating" : 3.3,
+          "reference" : "ChIJyVbu9qBDK4gRfJgjz-Gi1sA",
+          "types" : [
+             "pharmacy",
+             "hospital",
+             "health",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 105
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "6975 Meadowvale Town Centre Cir, Mississauga, ON L5N 2W7, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5823295,
+                "lng" : -79.75856139999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.58361737989272,
+                   "lng" : -79.75723487010727
+                },
+                "southwest" : {
+                   "lat" : 43.58091772010728,
+                   "lng" : -79.75993452989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "914d97b94a37d9411975f6382dfcc78827d67e03",
+          "name" : "Winston Churchill Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4608,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102906163359894438736\"\u003eCharles Bhachu\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAuD6fBWdKzYLEhxUV-HhVsmCIhogBUxkVVYsLNgOfnjqvZJYbY4sujemHce_IpcBqvOkqzUotookWRGYpnj4hNGwL7HXM3p4bkUbYMDjHEeOrZg0FSLFhPaJJe3tMokC7EhCpQWAP3AoBGVNIkeyY4AQTGhTGbrIIehn585RLRQuSwkcaToM81A",
+                "width" : 3456
+             }
+          ],
+          "place_id" : "ChIJ_3hShGtqK4gRkOIC8gZwvhY",
+          "plus_code" : {
+             "compound_code" : "H6JR+WH Mississauga, Ontario",
+             "global_code" : "87M2H6JR+WH"
+          },
+          "rating" : 2.1,
+          "reference" : "ChIJ_3hShGtqK4gRkOIC8gZwvhY",
+          "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 109
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "2275 Britannia Rd W #9, Mississauga, ON L5M 2G6, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5832538,
+                "lng" : -79.72934000000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.58436557989272,
+                   "lng" : -79.72760722010729
+                },
+                "southwest" : {
+                   "lat" : 43.58166592010728,
+                   "lng" : -79.73030687989274
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "f53ae59ad4fd6d78ab699bca33b2ae31b81b5a0a",
+          "name" : "Britannia Health Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108235874047921323739\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAA91Q2nrE9jXfSUfE6xgvE_IcWA6PsoHqIRBOf1G_OL6zMaWuXrko0V4SK32id3yHXhb1mr-WQsN-cib3MBBx6vJn4L5SUaBniTtcWLyTM9Wgo1sElJ6vFPrRzCbAK0PCEhDlwGj0l0zi0lSWB_yIsmxsGhRBC0XeYmTAU5meZmzug08wHZsSbQ",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJoSudKhZBK4gRsE0X_20DhKs",
+          "plus_code" : {
+             "compound_code" : "H7MC+87 Mississauga, Ontario",
+             "global_code" : "87M2H7MC+87"
+          },
+          "rating" : 5,
+          "reference" : "ChIJoSudKhZBK4gRsE0X_20DhKs",
+          "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 3
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "7235 Bellshire Gate #4, Mississauga, ON L5N 7X1, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.6216255,
+                "lng" : -79.7433384
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.62281052989272,
+                   "lng" : -79.74202417010727
+                },
+                "southwest" : {
+                   "lat" : 43.62011087010728,
+                   "lng" : -79.74472382989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "b926856ef820de7735a0cad53623998d08bc97ea",
+          "name" : "Levi Walk-In And Children Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJNwtPJKdqK4gRt2_8fq21iVY",
+          "plus_code" : {
+             "compound_code" : "J7C4+MM Mississauga, Ontario",
+             "global_code" : "87M2J7C4+MM"
+          },
+          "rating" : 3.1,
+          "reference" : "ChIJNwtPJKdqK4gRt2_8fq21iVY",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 110
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "3050 Artesian Dr, Mississauga, ON L5M 7P5, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5455433,
+                "lng" : -79.71511699999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.54691047989272,
+                   "lng" : -79.71375727010728
+                },
+                "southwest" : {
+                   "lat" : 43.54421082010727,
+                   "lng" : -79.71645692989273
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "e314b4d0ea10fffa2cf4a7d0b3f9704cb427209f",
+          "name" : "Churchill Medical Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104375673397841953582\"\u003eHASSAM HASAN\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA9sIGS76boy55F4e9x3tzv3fqux0FcXMCsHMD2jN6GpqbxG5TFn83UUGE3NVeRzguXTSVckecJZkIY1QoLZhaYo1ZHmLF056i2NE4MOG_cpgm6p9wZxF2bXBfa5Qyp2M7EhD_tZB4L5nCq4xDiC-nvDLXGhTL6QRhggcgC3NhwCqTOibpKU0-_Q",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJO0BWl6JBK4gR0rXeXahsSSY",
+          "plus_code" : {
+             "compound_code" : "G7WM+6X Mississauga, Ontario",
+             "global_code" : "87M2G7WM+6X"
+          },
+          "rating" : 2.4,
+          "reference" : "ChIJO0BWl6JBK4gR0rXeXahsSSY",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 45
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "1000 Burnhamthorpe Rd W, Mississauga, ON L5C 2S4, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5721336,
+                "lng" : -79.6584532
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57350607989272,
+                   "lng" : -79.65710522010727
+                },
+                "southwest" : {
+                   "lat" : 43.57080642010728,
+                   "lng" : -79.65980487989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "04b017bd3336ac7d4d2a64d725e5167bff68b292",
+          "name" : "myClinic by NMG",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJDQWoUzZBK4gRJpjChlNTyRY",
+          "plus_code" : {
+             "compound_code" : "H8CR+VJ Mississauga, Ontario",
+             "global_code" : "87M2H8CR+VJ"
+          },
+          "rating" : 3.7,
+          "reference" : "ChIJDQWoUzZBK4gRJpjChlNTyRY",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 3
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "60 Bristol Rd E #4, Mississauga, ON L4Z 3K8, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.6150819,
+                "lng" : -79.6606125
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.61648592989272,
+                   "lng" : -79.65946402010728
+                },
+                "southwest" : {
+                   "lat" : 43.61378627010728,
+                   "lng" : -79.66216367989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "a5e04535d75a5ca0861fa1a0593b433891b641a9",
+          "name" : "Bristol Family Medical Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4608,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109381296044888727732\"\u003eAyat Rezaeifar\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAdVp4LKOCuEfQRff77zivKhOPueghHadeKR6gIBqUdcfgFt-wmopcNf5SceUZW-AjVKTHY1qZsocNSFkuW86bytkSE9lwWkE1MgmGBfufGzkUzvylFmR3trkdogX_KlR7EhCTWp-tpvtabaqAXpP2-2syGhTWqWbUOcB98ZHD9X-MYwof0xwnWg",
+                "width" : 2592
+             }
+          ],
+          "place_id" : "ChIJ47lTfbpAK4gR1Zh_OC-WdQI",
+          "plus_code" : {
+             "compound_code" : "J88Q+2Q Mississauga, Ontario",
+             "global_code" : "87M2J88Q+2Q"
+          },
+          "rating" : 2.7,
+          "reference" : "ChIJ47lTfbpAK4gR1Zh_OC-WdQI",
+          "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 44
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "128 Queen St S #4A, Mississauga, ON L5M 1K8, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.582366,
+                "lng" : -79.71730699999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.58378462989273,
+                   "lng" : -79.71585242010727
+                },
+                "southwest" : {
+                   "lat" : 43.58108497010728,
+                   "lng" : -79.71855207989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "393fb5c8ba321ab992aa975d608a3d30fab07f81",
+          "name" : "Queen Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1437,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106658848115232972592\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAADBoqYR8EE43lJT1jRlzgWuAgo6rDBMBIRAPT45snjoF_lA_jYv1XrYVxnxHk9IyIxfe1P_s1wWoGzT1yY8qDmj4_rCGkCn1Rn1OuTK215Aqfb7VADiPkYLzkoy8Dd_plEhDpQWWeMmyj6VMIBSxoJxUwGhToyodXZiddq8N1sOdlCdvgzxblVA",
+                "width" : 1550
+             }
+          ],
+          "place_id" : "ChIJd6UigLhBK4gR5OvLMEUl5YQ",
+          "plus_code" : {
+             "compound_code" : "H7JM+W3 Mississauga, Ontario",
+             "global_code" : "87M2H7JM+W3"
+          },
+          "rating" : 2.4,
+          "reference" : "ChIJd6UigLhBK4gR5OvLMEUl5YQ",
+          "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 40
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "2325 Hurontario St, Mississauga, ON L5A 4C7, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5748208,
+                "lng" : -79.6081406
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57607997989272,
+                   "lng" : -79.60690557010727
+                },
+                "southwest" : {
+                   "lat" : 43.57338032010728,
+                   "lng" : -79.60960522989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "47de7dcc7bc88c7d1b60f8690832a96fe9d16014",
+          "name" : "Ideal Image Laser Medical Clinic",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJlwcPfPdGK4gR3WjP8UwEjYQ",
+          "plus_code" : {
+             "compound_code" : "H9FR+WP Mississauga, Ontario",
+             "global_code" : "87M2H9FR+WP"
+          },
+          "rating" : 0,
+          "reference" : "ChIJlwcPfPdGK4gR3WjP8UwEjYQ",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "7333 Goreway Dr, Mississauga, ON L4T 2T8, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.7212699,
+                "lng" : -79.6395722
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.72243172989272,
+                   "lng" : -79.63843477010727
+                },
+                "southwest" : {
+                   "lat" : 43.71973207010728,
+                   "lng" : -79.64113442989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "a2866378bd6e3d122ad9fa89b82bd30838a9215b",
+          "name" : "Walk-In Clinic at Walmart Malton by Jack Nathan Health",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2655,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109197100231275059939\"\u003eWalk-In Clinic at Walmart\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA6BEAIzYI-oCexH37CgfuT2Ecq0j4P2ggGK3e0P-IfKb7coR26fWV_glC21KDpnf0rcagMpfMM4G463Y_h7_Aiv3aQKkQJlTUFDQh9GC1H-pMhmbuQEoi3zdz8CT19O6KEhAS92iyPGx9n2nsEy-6FZIrGhR-A0RXVD8dAcsmj-sTzPfrKs6H2A",
+                "width" : 2128
+             }
+          ],
+          "place_id" : "ChIJpZiuVY07K4gRNOmQI4_xWec",
+          "plus_code" : {
+             "compound_code" : "P9C6+G5 Mississauga, Ontario",
+             "global_code" : "87M2P9C6+G5"
+          },
+          "rating" : 2,
+          "reference" : "ChIJpZiuVY07K4gRNOmQI4_xWec",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 46
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "3050 Confederation Pkwy, Mississauga, ON L5B 3Z6, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5780276,
+                "lng" : -79.62147
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57945587989272,
+                   "lng" : -79.62010942010728
+                },
+                "southwest" : {
+                   "lat" : 43.57675622010727,
+                   "lng" : -79.62280907989273
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "1929959adb5f452d2ced485bdefeab29cfd544ab",
+          "name" : "Confederation Medical Clinic",
+          "photos" : [
+             {
+                "height" : 2560,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113623926091900510572\"\u003emoew dy\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAApqDM3BIbP2cyZ2SlKCWhZUVZAoeLnmnZHlY3QRIEbrNC-tSGcnwMiclPCVwguBPhJ4dRjrZEdJKfzb1Qd4QPvefneY933VS9zi8uFrxkiMqbLYUUpfTPb66jgeMyUkjaEhApQVmDhCdeiIzELEUrqUMAGhRbj9O_w3f_3xEOqfICrZ0Dj2rBbg",
+                "width" : 1440
+             }
+          ],
+          "place_id" : "ChIJ06YG0OVGK4gRuWVHYQojdD4",
+          "plus_code" : {
+             "compound_code" : "H9HH+6C Mississauga, Ontario",
+             "global_code" : "87M2H9HH+6C"
+          },
+          "rating" : 3.8,
+          "reference" : "ChIJ06YG0OVGK4gRuWVHYQojdD4",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 23
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "6990 Financial Dr #2G, Mississauga, ON L5N 8J4, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.6109945,
+                "lng" : -79.74926520000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.61228742989272,
+                   "lng" : -79.74800032010729
+                },
+                "southwest" : {
+                   "lat" : 43.60958777010727,
+                   "lng" : -79.75069997989273
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "191ebeba0f4bb3a4a45923c0a9642c7fb086f71f",
+          "name" : "Derry Urgent Care Clinic & Pharmacy",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102741233463916866795\"\u003ePRASANNA CHIKKAPPAIAH\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA9aEqqUto873t2_NhuiWQjnTDEkA0zYa6WW9PJFAl2uzNR_KjHAythgE0O6RDzgVNECZVWiHzUZxTGo1cT4hxOA-g1wrEZn7vzUWQL1RdJy24PygnaUjfCwFRQfQHQMefEhA2P4SXZlSpa7qe43w0GasfGhSOEwb5o8wN-z9pwEumrdWcCLIGVA",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJf0N_2mNrK4gRYLetGFBdgyA",
+          "plus_code" : {
+             "compound_code" : "J762+97 Mississauga, Ontario",
+             "global_code" : "87M2J762+97"
+          },
+          "rating" : 4.7,
+          "reference" : "ChIJf0N_2mNrK4gRYLetGFBdgyA",
+          "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 39
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "21 Queensway W, Mississauga, ON L5B 1B6, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5738851,
+                "lng" : -79.6084298
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57515157989272,
+                   "lng" : -79.60718457010726
+                },
+                "southwest" : {
+                   "lat" : 43.57245192010727,
+                   "lng" : -79.60988422989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "881d634c677af273d46017edb55f66e5f575a0d0",
+          "name" : "Ontario Driver Medical . com",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJsUZXC_dGK4gRz8706tWC6f8",
+          "plus_code" : {
+             "compound_code" : "H9FR+HJ Mississauga, Ontario",
+             "global_code" : "87M2H9FR+HJ"
+          },
+          "rating" : 5,
+          "reference" : "ChIJsUZXC_dGK4gRz8706tWC6f8",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "6970 Lisgar Dr, Mississauga, ON L5N 8C8, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.5757712,
+                "lng" : -79.78372469999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.57720582989271,
+                   "lng" : -79.78240192010728
+                },
+                "southwest" : {
+                   "lat" : 43.57450617010727,
+                   "lng" : -79.78510157989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "99d950874c39abac5c11b7f99e304ca8c8ad45c5",
+          "name" : "Lisgar Woods Medical Centre",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJo6s-QTNqK4gRXCVH6uUUkDc",
+          "plus_code" : {
+             "compound_code" : "H6G8+8G Mississauga, Ontario",
+             "global_code" : "87M2H6G8+8G"
+          },
+          "rating" : 3.9,
+          "reference" : "ChIJo6s-QTNqK4gRXCVH6uUUkDc",
+          "types" : [ "health", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 33
+       }
+    ],
+    "status" : "OK"
+ }
