@@ -3,6 +3,7 @@ import './App.css';
 import HomePage from './components/homePage'
 import Navbar from './components/navbar'
 import Maps from './components/maps'
+import PatientManagementPage from './components/patientManagement'
 import initialize from "./services/firebaseconfig";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import * as firebase from "firebase/app";
@@ -23,6 +24,7 @@ function App() {
         <Switch>
           <Route strict exact path="/" render={() =>(<HomePage loginHandler={loginData} />)} />
           <Route path="/maps" component={ Maps } />
+          <Route path="/healthcare-dashboard" component={ PatientManagementPage } />
         </Switch>
       </div>
     </Router>
