@@ -22,9 +22,9 @@ function App() {
       <Navbar loginHandler={loginData} />
       <div className="App">
         <Switch>
-          <Route strict exact path="/" render={() =>(<HomePage loginHandler={loginData} />)} />
+          <Route strict exact path="/" render={(props) =>(<HomePage {...props} loginHandler={loginData} />)} />
           <Route path="/maps" component={ Maps } />
-          <Route path="/healthcare-dashboard" component={ PatientManagementPage } />
+          <Route path="/dashboard" component={ PatientManagementPage } />
         </Switch>
       </div>
     </Router>

@@ -9,10 +9,17 @@ class HomePage extends Component {
 
   login = () => {
     //LOGIN FUNCTION HERE
+    let state = this;
+    console.log(state);
     var provider = new firebase.auth.GoogleAuthProvider();
     provider.addScope('https://www.googleapis.com/auth/contacts.readonly');
-    
-    return firebase.auth().signInWithPopup(provider);
+    let loginState = firebase.auth().signInWithPopup(provider).catch(e => console.log(e));
+    loginState.then(
+      res => {
+        state.props.history.push('/dashboard');
+      }
+    );
+    return loginState;
   }
 
   render() {

@@ -4,8 +4,8 @@ class LoginHandler {
     setUser(userPromise) {
         userPromise.then(data => { 
             this.userData = data.user;
-            console.log(data.user);
             this.updateState();
+            
         });
     }
     getUser() {
