@@ -25,6 +25,27 @@ export function createClinic(name, location, officeHours, numOfPeople, lat, lng)
     clinics.push(clinic);
 }
 
+export function listAll(ref) {
+    let allclinics = [];
+    const itemsRef = firebase.database().ref('clinics');
+    itemsRef.once('value').then(function (snapshot) {
+        let clinics = snapshot.val();
+        for (let clinic in clinics) {
+            allclinics.push({
+                clinicName: clinics[clinic].clinicName,
+                clinicLocation: clinics[clinic].clinicLocation,
+                clinicOfficeHours: clinics[clinic].clinicOfficeHours,
+                clinicNumOfPeople: clinics[clinic].clinicNumOfPeople,
+                clinicLat: clinics[clinic].clinicLat,
+                clinicLng: clinics[clinic].clinicLng,
+            });
+        }
+        ref.setState({
+            clinics: allclinics
+        })
+    });
+}
+
 export function incrPatients(name) {
     var clinic;
     var key;
