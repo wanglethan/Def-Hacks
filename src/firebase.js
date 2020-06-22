@@ -99,7 +99,10 @@ export function decrPatients(name) {
         }
     });
 }
+
 export function createEmployee(uid, clinicName) {
+    var uid;
+    var clinicName;
     const employeeInfo = firebase.database().ref('employeeInfo');
     const employee = {
         employeeUid: uid,
@@ -109,6 +112,8 @@ export function createEmployee(uid, clinicName) {
 }
 
 export function plusOne(uid) {
+    var clinicRef;
+    var clinicName;
     var clinicRef = firebase.database().ref('employeeInfo');
     clinicRef.orderByChild("employeeUid").equalTo(uid).on("value", function (snapshot)); {
         snapshot.forEach((function (child) { clinicName = snapshot.key }));
@@ -117,6 +122,8 @@ export function plusOne(uid) {
 }
 
 export function minusOne(uid) {
+    var clinicRef;
+    var clinicName;
     var clinicRef = firebase.database().ref('employeeInfo');
     clinicRef.orderByChild("employeeUid").equalTo(uid).on("value", function (snapshot)); {
         snapshot.forEach((function (child) { clinicName = snapshot.key }));
