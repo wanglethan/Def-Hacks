@@ -108,4 +108,18 @@ export function createEmployee(uid, clinicName) {
     employeeInfo.push(employee);
 }
 
-createClinic('Primacy - West Mississauga Medical', '3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada', '9:00am - 4:00pm', '12', '43.59726257989271', '-79.78297942010728');
+export function plusOne(uid) {
+    var clinicRef = firebase.database().ref('employeeInfo');
+    clinicRef.orderByChild("employeeUid").equalTo(uid).on("value", function (snapshot)); {
+        snapshot.forEach((function (child) { clinicName = snapshot.key }));
+    };
+    return clinicName;
+}
+
+export function minusOne(uid) {
+    var clinicRef = firebase.database().ref('employeeInfo');
+    clinicRef.orderByChild("employeeUid").equalTo(uid).on("value", function (snapshot)); {
+        snapshot.forEach((function (child) { clinicName = snapshot.key }));
+    };
+    return clinicName;
+}
