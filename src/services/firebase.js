@@ -86,3 +86,21 @@ export function createEmployee(uid, clinicName) {
     }
     employeeInfo.push(employee);
 }
+
+export function plusOne(uid) {
+    var clinicRef = firebase.database().ref('employeeInfo');
+    clinicRef.orderByChild("employeeUid").equalTo(uid).on("value", function (snapshot)); {
+        snapshot.forEach((function (child) { clinicName = snapshot.key }));
+
+        return clinicName;
+    };
+}
+
+export function minusOne(uid) {
+    var clinicRef = firebase.database().ref('employeeInfo');
+    clinicRef.orderByChild("employeeUid").equalTo(uid).on("value", function (snapshot)); {
+        snapshot.forEach((function (child) { clinicName = snapshot.key }));
+
+        return clinicName;
+    };
+}
