@@ -24,7 +24,7 @@ function App() {
         <Switch>
           <Route strict exact path="/" render={(props) =>(<HomePage {...props} loginHandler={loginData} />)} />
           <Route path="/maps" component={ Maps } />
-          <Route path="/dashboard" component={ PatientManagementPage } />
+          <Route path="/dashboard" render={(props) => (<PatientManagementPage {...props} loginHandler={loginData} />)} />
         </Switch>
       </div>
     </Router>

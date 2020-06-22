@@ -1,7 +1,19 @@
 import React, { Component } from 'react';
+import { plusOne, minusOne, incrPatients, decrPatients, createEmployee } from '../services/firebase'
 
 class PatientManagementPage extends Component {
-    state = {  }
+    state = { 
+    }
+
+    addPatient = () => {
+      incrPatients(plusOne(this.props.loginHandler.userData.uid));
+    }
+    removePatient = () => {
+      decrPatients(minusOne(this.props.loginHandler.userData.uid));
+    }
+    setEmp = () => {
+      createEmployee(this.props.loginHandler.userData.uid, "Decoy Clinic")
+    }
     render() { 
         return (
           <div className="align-self-center">
@@ -13,7 +25,7 @@ class PatientManagementPage extends Component {
                   <div className="jumbotron bg-info">
                     <h4 className="text-white">
                       Number of Patients Currently Admitted
-                    </h4>
+                </h4>
                     <h1 className="display-4 text-white">324</h1>
                   </div>
                 </div>
@@ -21,16 +33,24 @@ class PatientManagementPage extends Component {
                   <div className="jumbotron bg-dark">
                     <h4 className="text-white">
                       Manage Patients
-                    </h4>
+                </h4>
                     <br></br>
-                    <button className="btn btn-success mx-4 my-3 btn-lg">Admit Patient</button>
-                    <button className="btn btn-danger mx-4 my-3 btn-lg">Remove Patient</button>
+                    <button className="btn btn-success mx-4 my-3 btn-lg" onClick={this.addPatient}>Admit Patient</button>
+                    <button className="btn btn-danger mx-4 my-3 btn-lg" onClick={this.removePatient}>Remove Patient</button>
                   </div>
                 </div>
               </div>
             </div>
+            {/*<div className="container">
+              <form className="form-inline">
+                <input type="text" className="form-control" id="clinic" value={this.state.value} placeholder="Enter your clinic name"></input>
+                
+              </form>
+              <button className="btn btn-primary ml-3" onClick={this.setEmp}>Submit</button>
+        </div>*/}
+            
           </div>
-        );
+          );
     }
 }
  
