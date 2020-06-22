@@ -1,5 +1,5 @@
 import React, { Component } from "react";
- 
+
 class Sidebar extends Component {
     state = {
         /*
@@ -37,19 +37,20 @@ class Sidebar extends Component {
   render() {
     return (
       <React.Fragment>
-          
+
             <ul class="list-group" style={{
                 position: 'relative',
-                left: 80 + "%",
+                left: 75 + "%",
                 width: 20 + "%",
             }}>
                 <h1 style={{ textAlignVertical: "center", textAlign: "center"}}>People in Clinic</h1>
                 {this.state.listitems.map(listitem => (
-                    <li key={listitem.id} className= "list-group-item">
+                    <li key={listitem.clinicName} className="list-group-item list-group-item-action" >
                         {listitem.clinicName + " : " + listitem.clinicNumOfPeople}
                     </li>
-                ))}
+                ))}<p style={{ fontWeight: 'bold', border: 'solid red'}}>Note: Only supported in Mississauga, Canada</p>
             </ul>
+            
       </React.Fragment>
     );
   }
