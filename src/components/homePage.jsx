@@ -19,15 +19,12 @@ class HomePage extends Component {
     return (
       <React.Fragment>
         <div className="align-self-center">
-          <h1 className="display-2 m-3" style={{ textAlign: "center" }}>
-            COVID Traffic Control
-          </h1>
+          <h1 className="display-2 m-3">COVID Traffic Control</h1>
           <div className="horizontal-line"></div>
           <div className="container" style={{ marginTop: "30px" }}>
             <div className="row">
               <div
-                className="col md-6 m-5 bg-dark rounded p-5"
-                style={{ textAlign: "center" }}
+                className="col md-3 m-5 bg-dark rounded p-5"
               >
                 <h2 className="lead p-3 text-white">
                   Healthcare Professional Login
@@ -36,7 +33,6 @@ class HomePage extends Component {
               </div>
               <div
                 className="col md-6 m-5 bg-dark rounded p-5"
-                style={{ textAlign: "center" }}
               >
                 <h2 className="lead p-3 text-white">User Login</h2>
                 <Link to="/maps"><button className="btn btn-lg btn-light m-3">Launch Map</button></Link>
