@@ -1,0 +1,620 @@
+{
+  "clinics" : {
+    "-MAOPU6mmfcTxUnQrECq" : {
+      "clinicLat" : "43.59726257989271",
+      "clinicLng" : "-79.78297942010728",
+      "clinicLocation" : "3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada",
+      "clinicName" : "Primacy - West Mississauga Medical",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am - 4:00pm"
+    },
+    "-MAObUQI9W9ZyB04j36f" : {
+      "clinicLat" : 43.5861018,
+      "clinicLng" : -79.74165719999999,
+      "clinicLocation" : "6405 Erin Mills Pkwy Unit A01, Mississauga, ON L5N 4H4, Canada",
+      "clinicName" : "Battleford Medical Walk-In Clinic",
+      "clinicNumOfPeople" : "8",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_I8Y7B2fdp-4z8f" : {
+      "clinicLat" : 43.5600794,
+      "clinicLng" : -79.7340313,
+      "clinicLocation" : "3020 Thomas St A301, Mississauga, ON L5M 0R4, Canada",
+      "clinicName" : "Churchill Meadows Medical Centre",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_ILCxBQiCb3XScZ" : {
+      "clinicLat" : 43.7212699,
+      "clinicLng" : -79.6395722,
+      "clinicLocation" : "7333 Goreway Dr, Mississauga, ON L4T 2T8, Canada",
+      "clinicName" : "Walk-In Clinic at Walmart Malton by Jack Nathan Health",
+      "clinicNumOfPeople" : "7",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IMhMCnY4e06kIg" : {
+      "clinicLat" : 43.6216255,
+      "clinicLng" : -79.7433384,
+      "clinicLocation" : "7235 Bellshire Gate #4, Mississauga, ON L5N 7X1, Canada",
+      "clinicName" : "Levi Walk-In And Children Clinic",
+      "clinicNumOfPeople" : "8",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IObjwqCdh8vhA2" : {
+      "clinicLat" : 43.5823295,
+      "clinicLng" : -79.75856139999999,
+      "clinicLocation" : "6975 Meadowvale Town Centre Cir, Mississauga, ON L5N 2W7, Canada",
+      "clinicName" : "Winston Churchill Medical Centre",
+      "clinicNumOfPeople" : "10",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IPZmZFwHqKV0K6" : {
+      "clinicLat" : 43.5601086,
+      "clinicLng" : -79.7341293,
+      "clinicLocation" : "3020 Thomas St, Mississauga, ON L5M 0N7, Canada",
+      "clinicName" : "Family Medicine Walk-In Clinic",
+      "clinicNumOfPeople" : "9",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IQP2daZwlDo63L" : {
+      "clinicLat" : 43.5832538,
+      "clinicLng" : -79.72934000000001,
+      "clinicLocation" : "2275 Britannia Rd W #9, Mississauga, ON L5M 2G6, Canada",
+      "clinicName" : "Britannia Health Clinic",
+      "clinicNumOfPeople" : "6",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IRmYdzN6vx-JHR" : {
+      "clinicLat" : 43.554668,
+      "clinicLng" : -79.715003,
+      "clinicLocation" : "5010 Glen Erin Dr, Mississauga, ON L5M 6J3, Canada",
+      "clinicName" : "Primacy - Health Care Plus",
+      "clinicNumOfPeople" : "8",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_ISk0UQT9A0gVS5" : {
+      "clinicLat" : 43.6150819,
+      "clinicLng" : -79.6606125,
+      "clinicLocation" : "60 Bristol Rd E #4, Mississauga, ON L4Z 3K8, Canada",
+      "clinicName" : "Bristol Family Medical Clinic",
+      "clinicNumOfPeople" : "8",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_ITawUTHqN_qt6i" : {
+      "clinicLat" : 43.6109945,
+      "clinicLng" : -79.74926520000001,
+      "clinicLocation" : "6990 Financial Dr #2G, Mississauga, ON L5N 8J4, Canada",
+      "clinicName" : "Derry Urgent Care Clinic & Pharmacy",
+      "clinicNumOfPeople" : "11",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IUJMce12eD6WT_" : {
+      "clinicLat" : 43.582366,
+      "clinicLng" : -79.71730699999999,
+      "clinicLocation" : "128 Queen St S #4A, Mississauga, ON L5M 1K8, Canada",
+      "clinicName" : "Queen Medical Centre",
+      "clinicNumOfPeople" : "0",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IVxhZKwF3DBbyZ" : {
+      "clinicLat" : 43.5455433,
+      "clinicLng" : -79.71511699999999,
+      "clinicLocation" : "3050 Artesian Dr, Mississauga, ON L5M 7P5, Canada",
+      "clinicName" : "Churchill Medical Clinic",
+      "clinicNumOfPeople" : "0",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IW5kV2XyTrbTD0" : {
+      "clinicLat" : 43.5757712,
+      "clinicLng" : -79.7837247,
+      "clinicLocation" : "6970 Lisgar Dr, Mississauga, ON L5N 8C8, Canada",
+      "clinicName" : "Lisgar Woods Medical Centre",
+      "clinicNumOfPeople" : "6",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IXoUNrIqoRBZbx" : {
+      "clinicLat" : 43.5759594,
+      "clinicLng" : -79.6539383,
+      "clinicLocation" : "796 Burnhamthorpe Rd W, Mississauga, ON L5C 2R9, Canada",
+      "clinicName" : "Family Medicine and walk-in clinic Dr M. Tasneem & D N. Ayub",
+      "clinicNumOfPeople" : "1",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IY18drOrQ55Frz" : {
+      "clinicLat" : 43.5167296,
+      "clinicLng" : -79.67503090000001,
+      "clinicLocation" : "2315 Bristol Cir #104, Oakville, ON L6H 6P8, Canada",
+      "clinicName" : "Winston Park Medical Centre - Family Physicians & Walk-In Clinic",
+      "clinicNumOfPeople" : "5",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IaRG5qLM0Gfx4N" : {
+      "clinicLat" : 43.5776532,
+      "clinicLng" : -79.6143273,
+      "clinicLocation" : "2500 Hurontario St, Mississauga, ON L5B 1N4, Canada",
+      "clinicName" : "Huron Square Medical Centre",
+      "clinicNumOfPeople" : "5",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IbCMB-JiJh6fTR" : {
+      "clinicLat" : 43.7141484,
+      "clinicLng" : -79.62989429999999,
+      "clinicLocation" : "3530 Derry Rd E #110-111, Mississauga, ON L4T 4E3, Canada",
+      "clinicName" : "Malton Urgent Care Centre",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_Ic5OX1a-BSd30o" : {
+      "clinicLat" : 43.6255424,
+      "clinicLng" : -79.5654173,
+      "clinicLocation" : "2200 Dundas St E #4A, Mississauga, ON L4X 2V3, Canada",
+      "clinicName" : "Dundas427 Medical Centre",
+      "clinicNumOfPeople" : "14",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IdztLOZ196CSfP" : {
+      "clinicLat" : 43.7132563,
+      "clinicLng" : -79.63335339999999,
+      "clinicLocation" : "3417 Derry Rd E unit 106, Mississauga, ON L4T 1A8, Canada",
+      "clinicName" : "Airport Health Centre",
+      "clinicNumOfPeople" : "3",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOb_IefSj5mqTrL8KI" : {
+      "clinicLat" : 43.5721336,
+      "clinicLng" : -79.6584532,
+      "clinicLocation" : "1000 Burnhamthorpe Rd W, Mississauga, ON L5C 2S4, Canada",
+      "clinicName" : "myClinic by NMG",
+      "clinicNumOfPeople" : "10",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3F0hjh6hQty2uR" : {
+      "clinicLat" : 43.5861018,
+      "clinicLng" : -79.74165719999999,
+      "clinicLocation" : "6405 Erin Mills Pkwy Unit A01, Mississauga, ON L5N 4H4, Canada",
+      "clinicName" : "Battleford Medical Walk-In Clinic",
+      "clinicNumOfPeople" : "1",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3M7DZlP7JA26vt" : {
+      "clinicLat" : 43.5600794,
+      "clinicLng" : -79.7340313,
+      "clinicLocation" : "3020 Thomas St A301, Mississauga, ON L5M 0R4, Canada",
+      "clinicName" : "Churchill Meadows Medical Centre",
+      "clinicNumOfPeople" : "5",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3OqZksOKDlVXxc" : {
+      "clinicLat" : 43.7212699,
+      "clinicLng" : -79.6395722,
+      "clinicLocation" : "7333 Goreway Dr, Mississauga, ON L4T 2T8, Canada",
+      "clinicName" : "Walk-In Clinic at Walmart Malton by Jack Nathan Health",
+      "clinicNumOfPeople" : "8",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3QrBhSg5OL6D3R" : {
+      "clinicLat" : 43.6216255,
+      "clinicLng" : -79.7433384,
+      "clinicLocation" : "7235 Bellshire Gate #4, Mississauga, ON L5N 7X1, Canada",
+      "clinicName" : "Levi Walk-In And Children Clinic",
+      "clinicNumOfPeople" : "1",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3SGST-Dgq-eKLI" : {
+      "clinicLat" : 43.5823295,
+      "clinicLng" : -79.75856139999999,
+      "clinicLocation" : "6975 Meadowvale Town Centre Cir, Mississauga, ON L5N 2W7, Canada",
+      "clinicName" : "Winston Churchill Medical Centre",
+      "clinicNumOfPeople" : "4",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3T4PuefnLB8uKm" : {
+      "clinicLat" : 43.5601086,
+      "clinicLng" : -79.7341293,
+      "clinicLocation" : "3020 Thomas St, Mississauga, ON L5M 0N7, Canada",
+      "clinicName" : "Family Medicine Walk-In Clinic",
+      "clinicNumOfPeople" : "9",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3T4PuefnLB8uKn" : {
+      "clinicLat" : 43.5832538,
+      "clinicLng" : -79.72934000000001,
+      "clinicLocation" : "2275 Britannia Rd W #9, Mississauga, ON L5M 2G6, Canada",
+      "clinicName" : "Britannia Health Clinic",
+      "clinicNumOfPeople" : "5",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3Uu1IncUr9Nkw4" : {
+      "clinicLat" : 43.5167296,
+      "clinicLng" : -79.67503090000001,
+      "clinicLocation" : "2315 Bristol Cir #104, Oakville, ON L6H 6P8, Canada",
+      "clinicName" : "Winston Park Medical Centre - Family Physicians & Walk-In Clinic",
+      "clinicNumOfPeople" : "4",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3VahW2983G_rae" : {
+      "clinicLat" : 43.554668,
+      "clinicLng" : -79.715003,
+      "clinicLocation" : "5010 Glen Erin Dr, Mississauga, ON L5M 6J3, Canada",
+      "clinicName" : "Primacy - Health Care Plus",
+      "clinicNumOfPeople" : "1",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3WMRJA_U-iewn_" : {
+      "clinicLat" : 43.582366,
+      "clinicLng" : -79.71730699999999,
+      "clinicLocation" : "128 Queen St S #4A, Mississauga, ON L5M 1K8, Canada",
+      "clinicName" : "Queen Medical Centre",
+      "clinicNumOfPeople" : "11",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3WMRJA_U-iewna" : {
+      "clinicLat" : 43.5759594,
+      "clinicLng" : -79.6539383,
+      "clinicLocation" : "796 Burnhamthorpe Rd W, Mississauga, ON L5C 2R9, Canada",
+      "clinicName" : "Family Medicine and walk-in clinic Dr M. Tasneem & D N. Ayub",
+      "clinicNumOfPeople" : "6",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3X0lk0gmPHKGLQ" : {
+      "clinicLat" : 43.6109945,
+      "clinicLng" : -79.74926520000001,
+      "clinicLocation" : "6990 Financial Dr #2G, Mississauga, ON L5N 8J4, Canada",
+      "clinicName" : "Derry Urgent Care Clinic & Pharmacy",
+      "clinicNumOfPeople" : "5",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3YKaGQXTSyw8ti" : {
+      "clinicLat" : 43.6150819,
+      "clinicLng" : -79.6606125,
+      "clinicLocation" : "60 Bristol Rd E #4, Mississauga, ON L4Z 3K8, Canada",
+      "clinicName" : "Bristol Family Medical Clinic",
+      "clinicNumOfPeople" : "6",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3YKaGQXTSyw8tj" : {
+      "clinicLat" : 43.5455433,
+      "clinicLng" : -79.71511699999999,
+      "clinicLocation" : "3050 Artesian Dr, Mississauga, ON L5M 7P5, Canada",
+      "clinicName" : "Churchill Medical Clinic",
+      "clinicNumOfPeople" : "10",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3ZUII8u9ZAOUUD" : {
+      "clinicLat" : 43.5757712,
+      "clinicLng" : -79.7837247,
+      "clinicLocation" : "6970 Lisgar Dr, Mississauga, ON L5N 8C8, Canada",
+      "clinicName" : "Lisgar Woods Medical Centre",
+      "clinicNumOfPeople" : "13",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3_wwLC2sX-P0Oc" : {
+      "clinicLat" : 43.6736236,
+      "clinicLng" : -79.67773300000002,
+      "clinicLocation" : "1332 Khalsa Dr #1, Mississauga, ON L5S 0A2, Canada",
+      "clinicName" : "Good Doctors Khalsa Dr",
+      "clinicNumOfPeople" : "1",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3_wwLC2sX-P0Od" : {
+      "clinicLat" : 43.5776532,
+      "clinicLng" : -79.6143273,
+      "clinicLocation" : "2500 Hurontario St, Mississauga, ON L5B 1N4, Canada",
+      "clinicName" : "Huron Square Medical Centre",
+      "clinicNumOfPeople" : "5",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3ayHZo2KKHJfCg" : {
+      "clinicLat" : 43.7141484,
+      "clinicLng" : -79.62989429999999,
+      "clinicLocation" : "3530 Derry Rd E #110-111, Mississauga, ON L4T 4E3, Canada",
+      "clinicName" : "Malton Urgent Care Centre",
+      "clinicNumOfPeople" : "7",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3ayHZo2KKHJfCh" : {
+      "clinicLat" : 43.5815813,
+      "clinicLng" : -79.71272210000001,
+      "clinicLocation" : "10 Main St, Mississauga, ON L5M 1X3, Canada",
+      "clinicName" : "Pharmasave Village Square Medical Center",
+      "clinicNumOfPeople" : "14",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdC3bDfPV8uD_fv4_" : {
+      "clinicLat" : 43.6255424,
+      "clinicLng" : -79.5654173,
+      "clinicLocation" : "2200 Dundas St E #4A, Mississauga, ON L4X 2V3, Canada",
+      "clinicName" : "Dundas427 Medical Centre",
+      "clinicNumOfPeople" : "10",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQhJZtgWhbOmcAV" : {
+      "clinicLat" : 43.5699342,
+      "clinicLng" : -79.6111682,
+      "clinicLocation" : "170 Queensway W Suite 112, Mississauga, ON L5B 3A8, Canada",
+      "clinicName" : "MedPlace Walk-In Clinic",
+      "clinicNumOfPeople" : "13",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQm29_9iOZs3moW" : {
+      "clinicLat" : 43.5889825,
+      "clinicLng" : -79.649822,
+      "clinicLocation" : "4175 Confederation Pkwy #2, Mississauga, ON L5B 0H1, Canada",
+      "clinicName" : "Square One Medical - Family Medicine, Walk-In & Pharmacy",
+      "clinicNumOfPeople" : "14",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQn9EAB1TbRH6DF" : {
+      "clinicLat" : 43.5739628,
+      "clinicLng" : -79.60833099999999,
+      "clinicLocation" : "21 Queensway W, Mississauga, ON L5B 1B6, Canada",
+      "clinicName" : "Multi-Specialty Medical Clinic",
+      "clinicNumOfPeople" : "0",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQn9EAB1TbRH6DG" : {
+      "clinicLat" : 43.5810973,
+      "clinicLng" : -79.64911099999999,
+      "clinicLocation" : "3980 Grand Park Dr, Mississauga, ON L5B 4M6, Canada",
+      "clinicName" : "Mississauga Medical Centre",
+      "clinicNumOfPeople" : "1",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQoAeiINpQmoN-D" : {
+      "clinicLat" : 43.6038257,
+      "clinicLng" : -79.7065527,
+      "clinicLocation" : "1201 Britannia Rd W, Mississauga, ON L5V 1N2, Canada",
+      "clinicName" : "Mississauga Urgent Care Medical Clinic",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQpDgi0I0xx-QBL" : {
+      "clinicLat" : 43.5194019,
+      "clinicLng" : -79.6393185,
+      "clinicLocation" : "1375 Southdown Rd, Mississauga, ON L5J 2Z1, Canada",
+      "clinicName" : "Southdown Medical Centre",
+      "clinicNumOfPeople" : "2",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQq-85vG1hogP5H" : {
+      "clinicLat" : 43.60897,
+      "clinicLng" : -79.57741899999999,
+      "clinicLocation" : "1500 Dundas St E, Mississauga, ON L4X 1L4, Canada",
+      "clinicName" : "Walk-In Clinic at Walmart Mississauga by Jack Nathan Health",
+      "clinicNumOfPeople" : "7",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQq-85vG1hogP5I" : {
+      "clinicLat" : 43.5958643,
+      "clinicLng" : -79.7842474,
+      "clinicLocation" : "3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada",
+      "clinicName" : "Primacy - West Mississauga Medical",
+      "clinicNumOfPeople" : "9",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQrv-Sc_23tkN6S" : {
+      "clinicLat" : 43.5421053,
+      "clinicLng" : -79.6818892,
+      "clinicLocation" : "2110 Burnhamthorpe Rd W #3, Mississauga, ON L5L 5Z5, Canada",
+      "clinicName" : "South Common Medical Centre",
+      "clinicNumOfPeople" : "11",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQsUoj29Q-MKN9q" : {
+      "clinicLat" : 43.5548975,
+      "clinicLng" : -79.714856,
+      "clinicLocation" : "5010 Glen Erin Dr, Mississauga, ON L5M 6J3, Canada",
+      "clinicName" : "Walk-In Clinic at Loblaws - Mississauga HealthCare Plus",
+      "clinicNumOfPeople" : "6",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQsUoj29Q-MKN9r" : {
+      "clinicLat" : 43.616158,
+      "clinicLng" : -79.6178424,
+      "clinicLocation" : "925 Rathburn Rd E, Mississauga, ON L4W 4C3, Canada",
+      "clinicName" : "St. George Walk-In Clinic",
+      "clinicNumOfPeople" : "13",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQtza76-8PH4M4y" : {
+      "clinicLat" : 43.578437,
+      "clinicLng" : -79.6853529,
+      "clinicLocation" : "5025 Creditview Rd, Mississauga, ON L5V 3E5, Canada",
+      "clinicName" : "The Queen Clinic",
+      "clinicNumOfPeople" : "5",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQuZKGYm7e8_ip0" : {
+      "clinicLat" : 43.6001155,
+      "clinicLng" : -79.5929977,
+      "clinicLocation" : "966 Dundas St E #8a, Mississauga, ON L4Y 4H5, Canada",
+      "clinicName" : "Applewood Medical Clinic",
+      "clinicNumOfPeople" : "7",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQvjTeXhhop8CVs" : {
+      "clinicLat" : 43.5989503,
+      "clinicLng" : -79.6118741,
+      "clinicLocation" : "620 Bloor St, Mississauga, ON L5A 3V9, Canada",
+      "clinicName" : "Medical One Centre and Pharmacy For Family Practice and Walk-in Clinic",
+      "clinicNumOfPeople" : "2",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQwDqSMyirmlGZD" : {
+      "clinicLat" : 43.5772024,
+      "clinicLng" : -79.65336769999999,
+      "clinicLocation" : "4-780 Burnhamthorpe Rd W, Mississauga, ON L5C 3X3, Canada",
+      "clinicName" : "Family Medical and Walk-In Clinic",
+      "clinicNumOfPeople" : "7",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQxtX8VbAvtYyKU" : {
+      "clinicLat" : 43.584618,
+      "clinicLng" : -79.6127853,
+      "clinicLocation" : "169 Dundas St E, Mississauga, ON L5A 1W8, Canada",
+      "clinicName" : "WeCare Walk-in Clinic and Pharmacy",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQxtX8VbAvtYyKV" : {
+      "clinicLat" : 43.602716,
+      "clinicLng" : -79.648952,
+      "clinicLocation" : "20 Kingsbridge Garden Cir, Mississauga, ON L5R 3K7, Canada",
+      "clinicName" : "Tucana Court Medical Clinic & Walk-in",
+      "clinicNumOfPeople" : "3",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQyCf0CAHqSOXpk" : {
+      "clinicLat" : 43.622949,
+      "clinicLng" : -79.6013391,
+      "clinicLocation" : "1420 Burnhamthorpe Rd E Suite 340, Mississauga, ON L4X 2Z9, Canada",
+      "clinicName" : "No Wait Walk-in Clinic Mississauga",
+      "clinicNumOfPeople" : "5",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQQz2gIWb7jHF6Gs" : {
+      "clinicLat" : 43.5875612,
+      "clinicLng" : -79.6401197,
+      "clinicLocation" : "3885 Duke of York Blvd #104&105, Mississauga, ON L5B 0E4, Canada",
+      "clinicName" : "MediCare Clinic",
+      "clinicNumOfPeople" : "0",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOdQR-G-WZqla_yRDI" : {
+      "clinicLat" : 43.604906,
+      "clinicLng" : -79.6633676,
+      "clinicLocation" : "223 Ceremonial Dr Unit 3, Mississauga, ON L5R 2N3, Canada",
+      "clinicName" : "Ceremonial Medical Centre",
+      "clinicNumOfPeople" : "9",
+      "clinicOfficeHours" : "9:00am-4:00pm"
+    },
+    "-MAOltq-1YAhTGRQDu4A" : {
+      "clinicLat" : "43.59726257989271",
+      "clinicLng" : "-79.78297942010728",
+      "clinicLocation" : "3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada",
+      "clinicName" : "Primacy - West Mississauga Medical",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am - 4:00pm"
+    },
+    "-MAOlv6ockiUf5yu-52d" : {
+      "clinicLat" : "43.59726257989271",
+      "clinicLng" : "-79.78297942010728",
+      "clinicLocation" : "3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada",
+      "clinicName" : "Primacy - West Mississauga Medical",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am - 4:00pm"
+    },
+    "-MAOlvQSlAlm4b2wC2cJ" : {
+      "clinicLat" : "43.59726257989271",
+      "clinicLng" : "-79.78297942010728",
+      "clinicLocation" : "3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada",
+      "clinicName" : "Primacy - West Mississauga Medical",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am - 4:00pm"
+    },
+    "-MAOm4o5RQSOBXxkwWcG" : {
+      "clinicLat" : "43.59726257989271",
+      "clinicLng" : "-79.78297942010728",
+      "clinicLocation" : "3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada",
+      "clinicName" : "Primacy - West Mississauga Medical",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am - 4:00pm"
+    },
+    "-MAOmGpqYbLm4pUoDqqt" : {
+      "clinicLat" : "43.59726257989271",
+      "clinicLng" : "-79.78297942010728",
+      "clinicLocation" : "3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada",
+      "clinicName" : "Primacy - West Mississauga Medical",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am - 4:00pm"
+    },
+    "-MAOmKcYb4CCeCDdMZoy" : {
+      "clinicLat" : "43.59726257989271",
+      "clinicLng" : "-79.78297942010728",
+      "clinicLocation" : "3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada",
+      "clinicName" : "Primacy - West Mississauga Medical",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am - 4:00pm"
+    },
+    "-MAOna-j4axbSumGoCys" : {
+      "clinicLat" : "123",
+      "clinicLng" : "-709",
+      "clinicLocation" : "meadowvale",
+      "clinicName" : "bai",
+      "clinicNumOfPeople" : "2",
+      "clinicOfficeHours" : "9-5"
+    },
+    "-MAOnbINTtrGrZAbFBHQ" : {
+      "clinicLat" : "123",
+      "clinicLng" : "-709",
+      "clinicLocation" : "meadowvale",
+      "clinicName" : "bai",
+      "clinicNumOfPeople" : "2",
+      "clinicOfficeHours" : "9-5"
+    },
+    "-MAOnnPxllMANPPMmnqO" : {
+      "clinicLat" : "43.59726257989271",
+      "clinicLng" : "-79.78297942010728",
+      "clinicLocation" : "3050 Argentia Rd, Mississauga, ON L5N 8E1, Canada",
+      "clinicName" : "Primacy - West Mississauga Medical",
+      "clinicNumOfPeople" : "12",
+      "clinicOfficeHours" : "9:00am - 4:00pm"
+    },
+    "-MAOoAnPQ5X01bgdPwoT" : {
+      "clinicLat" : "",
+      "clinicLng" : "",
+      "clinicLocation" : "",
+      "clinicName" : "",
+      "clinicNumOfPeople" : "",
+      "clinicOfficeHours" : ""
+    },
+    "-MAOvQ0Q4b30N79aFzla" : {
+      "clinicLat" : "",
+      "clinicLng" : "",
+      "clinicLocation" : "",
+      "clinicName" : "",
+      "clinicNumOfPeople" : "",
+      "clinicOfficeHours" : ""
+    },
+    "-MAOvcEfZlZWxAbEsT2j" : {
+      "clinicLat" : "",
+      "clinicLng" : "",
+      "clinicLocation" : "",
+      "clinicName" : "",
+      "clinicNumOfPeople" : "",
+      "clinicOfficeHours" : ""
+    },
+    "-MAOwgg4QeLq_CDKB0SD" : {
+      "clinicLat" : "",
+      "clinicLng" : "",
+      "clinicLocation" : "",
+      "clinicName" : "",
+      "clinicNumOfPeople" : "",
+      "clinicOfficeHours" : ""
+    },
+    "-MAOx7qSBHqseJZiz5cf" : {
+      "clinicLat" : "",
+      "clinicLng" : "",
+      "clinicLocation" : "",
+      "clinicName" : "",
+      "clinicNumOfPeople" : "",
+      "clinicOfficeHours" : ""
+    },
+    "-MAOzN-yIMC_PepN_ATp" : {
+      "clinicLat" : "",
+      "clinicLng" : "",
+      "clinicLocation" : "",
+      "clinicName" : "",
+      "clinicNumOfPeople" : "",
+      "clinicOfficeHours" : ""
+    },
+    "-MAP1PBeHzBnqxJJPVmn" : {
+      "clinicLat" : "",
+      "clinicLng" : "",
+      "clinicLocation" : "",
+      "clinicName" : "",
+      "clinicNumOfPeople" : "",
+      "clinicOfficeHours" : ""
+    }
+  }
+}

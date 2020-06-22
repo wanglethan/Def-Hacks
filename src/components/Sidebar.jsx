@@ -48,7 +48,7 @@ class Sidebar extends Component {
                     <li key={listitem.clinicName} className="list-group-item list-group-item-action" >
                         {listitem.clinicName + " : " + listitem.clinicNumOfPeople}
                     </li>
-                ))}<p style={{ fontWeight: 'bold', border: 'solid red'}}>Note: Only supported in Mississauga, Canada</p>
+                ))}<p style={{ fontWeight: 'bold', border: 'solid red'}}>Note: Currently only supported in Mississauga, Canada</p>
             </ul>
             
       </React.Fragment>
