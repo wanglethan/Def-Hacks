@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Map, GoogleApiWrapper, InfoWindow, Marker } from 'google-maps-react';
 import CurrentLocation from '../services/currentLocation'
 import Sidebar from './Sidebar'
-import * as clinicData from "../data/defhacks-database-export.json"
+import * as clinicData from "../data/data.json"
 
 const google = window.google
 const mapStyles = {
@@ -60,15 +60,16 @@ export class MapContainer extends Component {
                 onDragend={this.centerMoved}>
                 <Sidebar />
                 
-                {clinicData.keys.map(clinic => (
+                {clinicData.results.map(clinic => (
                     <Marker 
                         onClick={this.onMarkerClick}
                         onMouseover={this.onMouseoverMarker}
+                        // animation={1}
                         position={{
-                        lat:clinic.clinicLat,
-                        lng:clinic.clinicLng}}
-                        title={clinic.clinicNumOfPeople}
-                        name={clinic.clinicName}
+                        lat:clinic.geometry.location.lat,
+                        lng:clinic.geometry.location.lng}}
+                        title={clinic.formatted_address}
+                        name={clinic.name}
                     />
                 ))}
 
@@ -77,7 +78,11 @@ export class MapContainer extends Component {
                 visible={this.state.showingInfoWindow}>
                     <div>
                     <h1>{this.state.selectedPlace.name}</h1>
-                    8 patients are currently here
+                    8 patients are currently at this location.
+                    <header>
+                    {this.state.selectedPlace.title}
+                    </header>
+
                     </div>
                 </InfoWindow>
             </CurrentLocation>
