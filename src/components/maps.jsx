@@ -4,6 +4,8 @@ import CurrentLocation from '../services/currentLocation'
 import Sidebar from './Sidebar'
 import * as clinicData from "../data/defhacks-database-export.json"
 
+//maps component
+
 const google = window.google
 const mapStyles = {
     width: '80%',
