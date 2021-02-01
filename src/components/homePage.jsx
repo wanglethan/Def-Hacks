@@ -3,6 +3,8 @@ import * as firebase from "firebase/app";
 import "firebase/auth";
 import {Link} from 'react-router-dom';
 
+//homepage component
+
 class HomePage extends Component {
   state = {
   };
